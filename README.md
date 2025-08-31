@@ -11,4 +11,4 @@ With **Swing GUI**, users can interactively select starting points, destinations
 - Shortest distance 🏃
 - Traffic Conditions🚦
 - Accessibility ♿
-- Weather Conditions
+- Weather Conditions 🌤️
