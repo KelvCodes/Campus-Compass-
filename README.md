@@ -10,3 +10,4 @@
 With **Swing GUI**, users can interactively select starting points, destinations, and landmarks via **dropdowns and buttons**, while the system computes **optimal routes** considering:  
 - Shortest distance 🏃
 - Traffic Conditions🚦
+- Accessibility ♿  
