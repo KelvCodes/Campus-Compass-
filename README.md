@@ -9,4 +9,4 @@
 **Campus Compass** 🧭 is a **fully GUI-based, Object-Oriented Java application** developed by **Tech Tutors** 💻 to provide **complete campus navigation** for the University of Ghana 🎓.  
 With **Swing GUI**, users can interactively select starting points, destinations, and landmarks via **dropdowns and buttons**, while the system computes **optimal routes** considering:  
 - Shortest distance 🏃
-- Traff
+- Traffic C
