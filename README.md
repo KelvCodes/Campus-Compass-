@@ -1,1 +1,1 @@
-justs for traffic, weather, and accessibility to find the optimal path between campus locations.
+ic, weather, and accessibility to find the optimal path between campus locations.
