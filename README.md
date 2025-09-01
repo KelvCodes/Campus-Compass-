@@ -26,4 +26,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Multi-Algorithm Pathfinding**: Dijkstra, Floyd-Warshall, A* 📍
  - **Accessibility Features** ♿
  - **Traffic-Aware Routing** 🚦
+ - **Landmark-Based Routing** 🏛️ 
 
