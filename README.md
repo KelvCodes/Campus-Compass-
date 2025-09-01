@@ -29,5 +29,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Landmark-Based Routing** 🏛️
 
 ## 🔹Advanced Features
- -
+ - **Sorting Algorithms**: Quick Sort ⚡ & Merge Sort 🔀
 
