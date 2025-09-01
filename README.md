@@ -22,5 +22,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
  -  **Responsive & Complete**: handles multiple routes and alternative paths
  -  **Route Visualization** with distance and estimated time display
 
-## 🔹Core Na
+## 🔹Core Nav
 
