@@ -17,8 +17,8 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
   ---
  ## ✨Key Features
-  - **Interactive Swing GUI** 🖥️ for easy navigation
-  -  **Dropdown Selections** for start, destination, and landmarks
-  -  **Responsive & Complete**: handles multiple routes and alternative paths
-  -  **Route Visualization** with distance and estimated time display
+ - **Interactive Swing GUI** 🖥️ for easy navigation
+ -  **Dropdown Selections** for start, destination, and landmarks
+ -  **Responsive & Complete**: handles multiple routes and alternative paths
+ -  **Route Visualization** with distance and estimated time display
 
