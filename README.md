@@ -16,7 +16,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
   This makes the system **user-friendly, interactive, and practical**, while demonstrating **real-world OOP design principles**.
 
   ---
-  ## ✨Key Features
+ ## ✨Key Features
   - **Interactive Swing GUI** 🖥️ for easy navigation
   -  **Dropdown Selections** for start, destination, and landmarks
   -  **Responsive & Complete**: handles multiple routes and alternative paths
