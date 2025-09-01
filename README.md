@@ -23,5 +23,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
  -  **Route Visualization** with distance and estimated time display
 
 ## 🔹Core Navigation
- - 
+ - **Multi-Algorithm Pathfinding**: Dijkstra, Floyd-Warshall, A* 📍
 
