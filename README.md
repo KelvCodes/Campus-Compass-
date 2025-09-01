@@ -28,5 +28,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Traffic-Aware Routing** 🚦
  - **Landmark-Based Routing** 🏛️
 
-## 🔹Advanced Fem
+## 🔹Advanced Fea
 
