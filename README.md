@@ -24,5 +24,5 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ## 🔹Core Navigation
  - **Multi-Algorithm Pathfinding**: Dijkstra, Floyd-Warshall, A* 📍
- - 
+ - **Accessibility Features** ♿
 
