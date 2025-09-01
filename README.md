@@ -30,5 +30,8 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ## 🔹Advanced Features
  - **Sorting Algorithms**: Quick Sort ⚡ & Merge Sort 🔀
- - 
+ - **Search Algorithms**: Binary 🔍 & Linear 📝
+ - **Performance Optimization**: Divide & Conquer ⚔️, Greedy 🏹, Dynamic Programming 💾
+ - **Critical Path Analysis** ⏱️
+   
 
