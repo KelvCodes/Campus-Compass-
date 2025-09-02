@@ -36,7 +36,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ## 🏫 Campus Locations
 
-## Academic Build
+## Academic Buildi
  - CS Department 💻
  - Math Department ➗
 
