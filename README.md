@@ -52,7 +52,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Volta Hall 🏠
  - Commonwealth Hall 🏘️
  - Akuafo Hall 🏠
- - Legon Ha
+ - Legon Hall
  
 
    
