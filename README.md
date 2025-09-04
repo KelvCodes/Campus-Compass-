@@ -56,7 +56,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Diaspora Halls 🌍
 
 ### Facilities and Services
- - Bush Cant
+ - Bush Cante
  
 
    
