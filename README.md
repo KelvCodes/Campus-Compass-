@@ -57,7 +57,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ### Facilities and Services
  - Bush Canteen 🍔
- - Sarbah Pa
+ - Sarbah Par
  
 
    
