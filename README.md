@@ -53,7 +53,9 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Commonwealth Hall 🏘️
  - Akuafo Hall 🏠
  - Legon Hall 🏘️
- - Diaspora Halls 🌍  
+ - Diaspora Halls 🌍
+
+##
  
 
    
