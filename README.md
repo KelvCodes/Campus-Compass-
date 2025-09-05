@@ -64,7 +64,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Night Market 🌙
 
    ---
-## 🧠Algorithms I
+## 🧠Algorithms Imp
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
