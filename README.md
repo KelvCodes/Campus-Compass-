@@ -68,7 +68,8 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ### PathFinding Algorithms
 1. **Dijkstra** - Single-source shortest path 📍
-2. **Floyd-Warshall** – All-pairs shortest path 🔗 
+2. **Floyd-Warshall** – All-pairs shortest path 🔗
+3.  **A*** – Heuristic-based pathfinding 🎯
 
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
