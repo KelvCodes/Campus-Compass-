@@ -77,6 +77,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ### Searching Algorithm
  - **Binary Search** 🔍 - Fast landmark lookup
+ - L
 
 
 
