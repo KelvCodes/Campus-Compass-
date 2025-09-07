@@ -76,7 +76,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Merge Sort** 🔀 - Stable sorting for alternative
 
 ### Searching Algorithm
- - **Binary Search** 🔍 - Fast landmar
+ - **Binary Search** 🔍 - Fast landmark
 
 
 
