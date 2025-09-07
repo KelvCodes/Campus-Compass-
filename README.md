@@ -72,7 +72,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 3.  **A*** – Heuristic-based pathfinding 🎯
 
 ### Sorting Algorithm
- - **Quick Sort**⚡- Fast Route Sorting
+ - **Quick Sort**⚡- Fast route Sorting
  - **Merge Sort** 🔀 - Stable sorting for alternative
 
 ### Searching Algorithm
