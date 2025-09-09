@@ -84,7 +84,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Greedy Algorithm** 🏹 – Local optimal path choices
  - **Dynamic Programming** 💾 – Memoization & repeated calculation optimization
 
-### T
+### Tr
 
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
