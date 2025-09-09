@@ -80,7 +80,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Linear Search** 📝 - Full landmark scan
 
 ### Optimization Techniques
- - **Divide & Conquer** -⚔️ Route efficiency
+ - **Divide & Conquer** ⚔️ -  Route efficiency
  - **Greedy Algorithm** 🏹 – Local optimal path choices
  - **Dynamic Programming** 💾 – Memoization & repeated calculation optimization
 
