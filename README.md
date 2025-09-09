@@ -1,4 +1,4 @@
-# Campus Compass 🧭🏫
+ # Campus Compass 🧭🏫
 
 [![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
 [![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)](https://choosealicense.com/licenses/) 
@@ -84,7 +84,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Greedy Algorithm** 🏹 – Local optimal path choices
  - **Dynamic Programming** 💾 – Memoization & repeated calculation optimization
 
-### Transportation
+### Transportation M
 
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
