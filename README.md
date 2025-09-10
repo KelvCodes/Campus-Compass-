@@ -84,11 +84,11 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - **Greedy Algorithm** 🏹 – Local optimal path choices
  - **Dynamic Programming** 💾 – Memoization & repeated calculation optimization
 
----
 ### Transportation Methods
  - **Vogel Approximation** 🚌 -  Transport optimization
  - **Northwest Corner Method** 🧭 – Feasible initial solution generation
 
+---
 ## ⚙️ Installation & Setup
 
 ### P
