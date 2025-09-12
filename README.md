@@ -105,7 +105,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
     ```bash
     javac -d bin src/*.java
     
- 3. Run the app
+ 3. Run the appli
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
