@@ -101,7 +101,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
    git clone https://github.com/KelvCodes/Campus-Compas
    cd Campus-Compass
 
- 2. Com
+ 2. Comp
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
