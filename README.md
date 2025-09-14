@@ -117,11 +117,12 @@ With **Swing GUI**, users can interactively select starting points, destinations
 ---
 ### 🗺️Usage Guide
 ## Basic Navigation
-1. Launch the appli
+1. Launch the applica
 
 
 
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
+
 
