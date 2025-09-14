@@ -116,7 +116,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 
 ---
 ### 🗺️Usage Guide
-## Basic Navi
+## Basic Navig
 
 
    
