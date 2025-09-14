@@ -118,7 +118,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 ### 🗺️Usage Guide
 ## Basic Navigation
 1. Launch the application🖥️
-2. 
+2. Select starting location 📍
 
 
 
