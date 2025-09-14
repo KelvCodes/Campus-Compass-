@@ -112,7 +112,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 ### Run from IDE
 1. Open the project in your IDE.
 2. Navigate to ```src/App.java```
-3. Run the main me
+3. Run the main met
 
    
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
