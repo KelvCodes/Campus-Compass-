@@ -120,7 +120,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 1. Launch the application🖥️
 2. Select starting location 📍
 3. Select destination 🎯
-4. Click start to
+4. Click start to f
 5. 
 
 
