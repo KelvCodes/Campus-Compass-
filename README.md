@@ -119,7 +119,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
 ## Basic Navigation
 1. Launch the application🖥️
 2. Select starting location 📍
-3. Select
+3. Select d
 
 
 
