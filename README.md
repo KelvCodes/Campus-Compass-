@@ -129,7 +129,7 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Traffic Optimization 🚦 – Routes adapt to traffic
 
 ### 🗂️Project Structure
-```bas
+```bash
 CampusCompass/
 ├── src/
 │   ├── App.java                 # Main entry point
