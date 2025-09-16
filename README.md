@@ -129,6 +129,24 @@ With **Swing GUI**, users can interactively select starting points, destinations
  - Traffic Optimization 🚦 – Routes adapt to traffic
 
 ### 🗂️Project Structure
+```
+CampusCompass/
+├── src/
+│   ├── App.java                 # Main entry point
+│   ├── AppFrame.java            # GUI implementation
+│   ├── Graph.java               # Graph data structure
+│   ├── Nodes.java               # Node representation
+│   ├── Edge.java                # Edge representation
+│   ├── VogelAlgo.java           # Vogel approximation method
+│   ├── CriticalPath.java        # Critical path analysis
+│   ├── FloydWarshall.java       # Floyd-Warshall algorithm
+│   ├── AStarSearch.java         # A* search algorithm
+│   ├── SortingAlgorithms.java   # Quick & Merge Sort
+│   ├── SearchAlgorithms.java    # Binary & Linear Search
+│   └── RouteOptimizer.java      # Route optimization logic
+├── bin/                         # Compiled class files
+└── README.md                    # Project documentation
+
 
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
