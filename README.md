@@ -148,7 +148,8 @@ CampusCompass/
 └── README.md                    # Project documentation
 ```
 
-### 📊
+### 📊T
+
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
