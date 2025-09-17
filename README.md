@@ -151,7 +151,7 @@ CampusCompass/
 ### 📊Technical Implementation
 ## Data Structures
  - Graph - adjacency list weighted edges🔗
- - Priority
+ - Priority Q
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
