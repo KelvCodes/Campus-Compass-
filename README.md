@@ -152,7 +152,7 @@ CampusCompass/
 ## Data Structures
  - Graph - adjacency list weighted edges🔗
  - Priority Queue - efficient node selection⚡
- - Hashmap - fast node/edge lookup
+ - Hashmap - fast node/edge lookup🗂️
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
