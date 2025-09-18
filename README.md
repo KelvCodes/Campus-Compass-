@@ -153,7 +153,7 @@ CampusCompass/
  - Graph - adjacency list weighted edges🔗
  - Priority Queue - efficient node selection⚡
  - Hashmap - fast node/edge lookup🗂️
- - Linked list - path trackin
+ - Linked list - path tracking
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
