@@ -158,7 +158,7 @@ CampusCompass/
 ## Performance Optimizations
  - Memoization 💾 – caches repeated routes
  - Early Termination ⏹️ – stops search when optimal path is found
- - Optimized Structure⚙️ -  designed for c
+ - Optimized Structure⚙️ -  designed for ca
 
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
