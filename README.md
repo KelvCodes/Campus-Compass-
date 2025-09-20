@@ -161,6 +161,7 @@ CampusCompass/
  - Optimized Structure⚙️ -  designed for campus-scale navigation
 
 ### 🤝Contributing
+1. 
  Developed by **Tech Tutors**💡for educational purposes. To contribute:
 ✅ **Note:** This project is **highly complete**, demonstrating **OOP principles, GUI design, and advanced algorithmic implementations**, making it suitable for **academic demonstrations, practical navigation tools, and learning purposes**.
    
