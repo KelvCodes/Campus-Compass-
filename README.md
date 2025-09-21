@@ -169,7 +169,7 @@ CampusCompass/
    
 ---
 ### 📄License  
- This project is for **educational purpos
+ This project is for **educational purpose
  
 
 
