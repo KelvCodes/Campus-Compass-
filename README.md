@@ -169,7 +169,7 @@ CampusCompass/
    
 ---
 ### 📄License  
- This project is for **educational purposes** at the University of G
+ This project is for **educational purposes** at the University of Gha
  
 
 
