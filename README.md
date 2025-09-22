@@ -173,7 +173,7 @@ CampusCompass/
 
  ---
  ### 📬Contact
-  Fo
+  For
  
 
 
