@@ -173,7 +173,7 @@ CampusCompass/
 
  ---
  ### 📬Contact
-  For su
+  For sup
  
 
 
