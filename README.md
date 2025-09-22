@@ -173,7 +173,7 @@ CampusCompass/
 
  ---
  ### 📬Contact
-  For support or questions, reach ou
+  For support or questions, reach out
  
 
 
