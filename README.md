@@ -173,7 +173,7 @@ CampusCompass/
 
  ---
  ### 📬Contact
-  For support or questions, reach out to **Tech Tuto
+  For support or questions, reach out to **Tech Tutor
  
 
 
