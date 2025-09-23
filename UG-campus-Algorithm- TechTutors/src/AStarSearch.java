@@ -1,4 +1,4 @@
-st, double hCost, AStarNode parent) {
+st, AStarNode parent) {
             this.node = node;
             this.gCost = gCost;
             this.hCost = hCost;
