@@ -1,5 +1,4 @@
 
-            this.fCost = gCost + hCost;
             this.parent = parent;
         }
         
