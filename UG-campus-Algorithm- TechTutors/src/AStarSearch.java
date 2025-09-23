@@ -1,6 +1,4 @@
- {
-    
-    public static class AStarNode implements Comparable<AStarNode> {
+ic static class AStarNode implements Comparable<AStarNode> {
         Nodes node;
         double gCost;
         double hCost;
