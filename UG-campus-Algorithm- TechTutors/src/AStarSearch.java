@@ -1,9 +1,4 @@
 
-        
-        public int hashCode() {
-            return Objects.hash(node);
-        }
-    }
     
     public static class AStarResult {
         public List<String> path;
