@@ -1,10 +1,4 @@
-
-     hbor, neighborNode);
-                }
-                
-                if (tentativeGCost < neighborNode.gCost) {
-                    neighborNode.parent = currentNode;
-                    neighborNode.gCost = tentativeGCost;
+t = tentativeGCost;
                     neighborNode.fCost = tentativeGCost + neighborNode.hCost;
                     
                     if (!openSet.contains(neighborNode)) {
