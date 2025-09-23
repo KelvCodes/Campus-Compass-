@@ -1,5 +1,4 @@
 
-            return Double.compare(this.fCost, other.fCost);
         }
         
         @Override
