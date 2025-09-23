@@ -1,8 +1,4 @@
-
-        whil= openSet.poll();
-            nodesExplored++;
-            
-            if (currentNode.node.equals(end)) {
+e.equals(end)) {
                 return new AStarResult(reconstructPath(currentNode), currentNode.gCost, nodesExplored);
             }
             
