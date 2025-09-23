@@ -1,5 +1,5 @@
 
-        double fCost;
+        doub;
         AStarNode parent;
         
         public AStarNode(Nodes node, double gCost, double hCost, AStarNode parent) {
