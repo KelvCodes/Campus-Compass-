@@ -1,6 +1,4 @@
-
-        public List<String> path;
-        public double totalDistance;
+lDistance;
         public int nodesExplored;
         
         public AStarResult(List<String> path, double totalDistance, int nodesExplored) {
