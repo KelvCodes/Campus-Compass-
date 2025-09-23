@@ -1,6 +1,4 @@
-osedSet 
-        int nodesExplored = 0;
-        
+
         while (!openSet.isEmpty()) {
             AStarNode currentNode = openSet.poll();
             nodesExplored++;
