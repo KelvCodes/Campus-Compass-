@@ -1,7 +1,4 @@
 
-        }
-        
-        @Override
         public int compareTo(AStarNode other) {
             return Double.compare(this.fCost, other.fCost);
         }
