@@ -1,8 +1,4 @@
-osedSet = new HashSet<>();
-        Maode = new AStarNode(start, 0, heuristic(start, end), null);
-        openSet.add(startNode);
-        allNodes.put(start, startNode);
-        
+osedSet 
         int nodesExplored = 0;
         
         while (!openSet.isEmpty()) {
