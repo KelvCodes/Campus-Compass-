@@ -1,12 +1,4 @@
-e.equals(end)) {
-     
-            for (Edge edge : currentNode.node.edges) {
-                Nodes neighbor = edge.destination;
-                
-                if (closedSet.contains(neighbor)) {
-                    continue;
-                }
-                
+
                 double tentativeGCost = currentNode.gCost + edge.weight;
                 AStarNode neighborNode = allNodes.get(neighbor);
                 
