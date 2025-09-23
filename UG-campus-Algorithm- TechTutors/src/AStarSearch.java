@@ -1,9 +1,7 @@
 
                 double tentativeGCost = currentNode.gCost + edge.weight;
                 AStarNode neighborNode = allNodes.get(neighbor);
-                
-                if (neighborNode == null) {
-                    neighborNode = new AStarNode(neighbor, Double.POSITIVE_INFINITY, heuristic(neighbor, end), null);
+                 = new AStarNode(neighbor, Double.POSITIVE_INFINITY, heuristic(neighbor, end), null);
                     allNodes.put(neighbor, neighborNode);
                 }
                 
