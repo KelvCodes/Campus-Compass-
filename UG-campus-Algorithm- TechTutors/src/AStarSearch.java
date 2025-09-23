@@ -1,4 +1,4 @@
-arNode(Nodes node, double gCost, double hCost, AStarNode parent) {
+e, double gCost, double hCost, AStarNode parent) {
             this.node = node;
             this.gCost = gCost;
             this.hCost = hCost;
