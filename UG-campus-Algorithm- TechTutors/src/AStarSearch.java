@@ -1,9 +1,5 @@
 e.equals(end)) {
-                return new AStarResult(reconstructPath(currentNode), currentNode.gCost, nodesExplored);
-            }
-            
-            closedSet.add(currentNode.node);
-            
+     
             for (Edge edge : currentNode.node.edges) {
                 Nodes neighbor = edge.destination;
                 
