@@ -1,6 +1,5 @@
 
-        while (!openSet.isEmpty()) {
-            AStarNode currentNode = openSet.poll();
+        whil= openSet.poll();
             nodesExplored++;
             
             if (currentNode.node.equals(end)) {
