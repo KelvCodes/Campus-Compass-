@@ -1,5 +1,4 @@
 
-        double hCost;
         double fCost;
         AStarNode parent;
         
