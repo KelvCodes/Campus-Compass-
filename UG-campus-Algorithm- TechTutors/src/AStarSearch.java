@@ -1,6 +1,4 @@
-
-       StarSearch(Graph graph, Nodes start, Nodes end) {
-        PriorityQueue<AStarNode> openSet = new PriorityQueue<>();
+ openSet = new PriorityQueue<>();
         Set<Nodes> closedSet = new HashSet<>();
         Map<Nodes, AStarNode> allNodes = new HashMap<>();
         
