@@ -1,5 +1,4 @@
 
-        AStarNode parent;
         
         public AStarNode(Nodes node, double gCost, double hCost, AStarNode parent) {
             this.node = node;
