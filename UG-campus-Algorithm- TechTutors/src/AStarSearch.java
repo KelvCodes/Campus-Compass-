@@ -1,4 +1,4 @@
-AStarNode implements Comparable<AStarNode> {
+de implements Comparable<AStarNode> {
         Nodes node;
         double gCost;
         double hCost;
