@@ -1,5 +1,4 @@
- {
-        Nodes node;
+
         double gCost;
         double hCost;
         double fCost;
