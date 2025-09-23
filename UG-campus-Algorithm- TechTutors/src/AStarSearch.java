@@ -1,6 +1,5 @@
 
-
-public class AStarSearch {
+ass AStarSearch {
     
     public static class AStarNode implements Comparable<AStarNode> {
         Nodes node;
