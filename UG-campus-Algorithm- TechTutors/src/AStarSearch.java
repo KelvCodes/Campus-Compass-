@@ -1,5 +1,4 @@
-Result(List<String> path, double totalDistance, int nodesExplored) {
-            this.path = path;
+
             this.totalDistance = totalDistance;
             this.nodesExplored = nodesExplored;
         }
