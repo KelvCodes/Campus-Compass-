@@ -1,5 +1,4 @@
- openSet = new PriorityQueue<>();
-        Set<Nodes> closedSet = new HashSet<>();
+osedSet = new HashSet<>();
         Maode = new AStarNode(start, 0, heuristic(start, end), null);
         openSet.add(startNode);
         allNodes.put(start, startNode);
