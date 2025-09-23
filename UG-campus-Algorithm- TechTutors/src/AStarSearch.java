@@ -1,5 +1,4 @@
-
-            if (obj == null || getClass() != obj.getClass()) return false;
+ != obj.getClass()) return false;
             AStarNode aStarNode = (AStarNode) obj;
             return Objects.equals(node, aStarNode.node);
         }
