@@ -1,8 +1,6 @@
  openSet = new PriorityQueue<>();
         Set<Nodes> closedSet = new HashSet<>();
-        Map<Nodes, AStarNode> allNodes = new HashMap<>();
-        
-        AStarNode startNode = new AStarNode(start, 0, heuristic(start, end), null);
+        Maode = new AStarNode(start, 0, heuristic(start, end), null);
         openSet.add(startNode);
         allNodes.put(start, startNode);
         
