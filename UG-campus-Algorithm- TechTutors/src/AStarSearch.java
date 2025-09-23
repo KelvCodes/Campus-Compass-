@@ -1,5 +1,4 @@
-t) {
-            this.node = node;
+
             this.gCost = gCost;
             this.hCost = hCost;
             this.fCost = gCost + hCost;
