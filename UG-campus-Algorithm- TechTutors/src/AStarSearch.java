@@ -1,6 +1,4 @@
-rNode) obj;
-            return Objects.equals(node, aStarNode.node);
-        }
+
         
         @Override
         public int hashCode() {
