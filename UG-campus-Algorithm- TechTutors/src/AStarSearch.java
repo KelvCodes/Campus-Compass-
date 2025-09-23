@@ -1,5 +1,4 @@
 
-            this.parent = parent;
         }
         
         @Override
