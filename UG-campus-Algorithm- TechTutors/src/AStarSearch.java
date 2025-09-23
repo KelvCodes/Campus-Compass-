@@ -1,8 +1,5 @@
 
-            this.totalDistance = totalDistance;
-            this.nodesExplored = nodesExplored;
-        }
-    }
+       
     
     public static AStarResult aStarSearch(Graph graph, Nodes start, Nodes end) {
         PriorityQueue<AStarNode> openSet = new PriorityQueue<>();
