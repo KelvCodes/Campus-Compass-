@@ -1,5 +1,4 @@
-
-            AStarNode aStarNode = (AStarNode) obj;
+rNode) obj;
             return Objects.equals(node, aStarNode.node);
         }
         
