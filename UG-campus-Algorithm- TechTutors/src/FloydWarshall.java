@@ -1,6 +1,4 @@
-
-            Arrays.fill(distances[i], INF);
-            Arrays.fill(next[i], -1);
+1);
             distances[i][i] = 0;
         }
         
