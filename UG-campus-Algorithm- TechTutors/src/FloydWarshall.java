@@ -1,7 +1,5 @@
 
-            }
-        int endIndex = nodesList.indexOf(end);
-        
+         
         List<String> path = reconstructPath(next, nodesList, startIndex, endIndex);
         double totalDistance = distances[startIndex][endIndex];
         
