@@ -1,5 +1,4 @@
-
-        int n = nodesList.size();
+s
         
         double[][] distances = new double[n][n];
         int[][] next = new int[n][n];
