@@ -1,6 +1,4 @@
 
-        
-        for (int i = 0; i < n; i++) {
             Arrays.fill(distances[i], INF);
             Arrays.fill(next[i], -1);
             distances[i][i] = 0;
