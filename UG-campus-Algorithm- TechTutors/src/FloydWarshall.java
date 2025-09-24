@@ -1,6 +1,4 @@
 
-            this.next = next;
-            this.path = path;
             this.totalDistance = totalDistance;
         }
     }
