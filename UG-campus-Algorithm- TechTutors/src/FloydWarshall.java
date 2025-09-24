@@ -1,7 +1,6 @@
 
     
-    public static List<List<String>> getAllShortestPaths(Graph graph) {
-        List<Nodes> nodesList = new ArrayList<>(graph.getNodes());
+    publiList = new ArrayList<>(graph.getNodes());
         int n = nodesList.size();
         
         double[][] distances = new double[n][n];
