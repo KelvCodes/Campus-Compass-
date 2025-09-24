@@ -1,7 +1,6 @@
 
          
-        List<String> path = reconstructPath(next, nodesList, startIndex, endIndex);
-        double totalDistance = distances[startIndex][endIndex];
+        List<String> patrtIndex][endIndex];
         
         return new ShortestPathResult(distances, next, path, totalDistance);
     }
