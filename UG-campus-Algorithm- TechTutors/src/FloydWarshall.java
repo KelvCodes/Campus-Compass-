@@ -1,6 +1,4 @@
-
-    public static class ShortestPathResult {
-        public double[][] distances;
+es;
         public int[][] next;
         public List<String> path;
         public double totalDistance;
