@@ -1,6 +1,5 @@
 
-            Nodes node = nodesList.get(i);
-            for (Edge edge : node.edges) {
+            Nodes node = nodesList.g
                 int j = nodesList.indexOf(edge.destination);
                 distances[i][j] = edge.weight;
                 next[i][j] = j;
