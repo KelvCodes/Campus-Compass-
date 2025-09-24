@@ -1,6 +1,5 @@
 
-ew ArrayList<>(graph.getNodes());
-        int n = es = new double[n][n];
+ew Art n = es = new double[n][n];
         int[][] next = new int[n][n];
         
         for (int i = 0; i < n; i++) {
