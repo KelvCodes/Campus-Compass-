@@ -1,9 +1,5 @@
 
- static List<String> reconstructPath(int[][] next, List<Nodes> nodesList, int start, int end) {
-        List<String> path = new ArrayList<>();
-        
-        }
-        
+ static List<String>
         path.add(nodesList.get(start).name);
         while (start != end) {
             start = next[start][end];
