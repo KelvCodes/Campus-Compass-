@@ -1,7 +1,4 @@
 
-
-    private static final double INF = Double.POSITIVE_INFINITY;
-    
     public static class ShortestPathResult {
         public double[][] distances;
         public int[][] next;
