@@ -1,8 +1,5 @@
 
             }
-        }
-        
-        int startIndex = nodesList.indexOf(start);
         int endIndex = nodesList.indexOf(end);
         
         List<String> path = reconstructPath(next, nodesList, startIndex, endIndex);
