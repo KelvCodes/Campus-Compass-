@@ -1,5 +1,4 @@
-[][] distances, int[][] next, List<String> path, double totalDistance) {
-            this.distances = distances;
+
             this.next = next;
             this.path = path;
             this.totalDistance = totalDistance;
