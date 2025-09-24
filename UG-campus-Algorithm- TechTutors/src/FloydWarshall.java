@@ -1,6 +1,5 @@
 
-    
-    publiList = new ArrayList<>(graph.getNodes());
+ew ArrayList<>(graph.getNodes());
         int n = nodesList.size();
         
         double[][] distances = new double[n][n];
