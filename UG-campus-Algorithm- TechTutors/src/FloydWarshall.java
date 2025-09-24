@@ -1,5 +1,4 @@
 
-        List<Nodes> nodesList = new ArrayList<>(graph.getNodes());
         int n = nodesList.size();
         
         double[][] distances = new double[n][n];
