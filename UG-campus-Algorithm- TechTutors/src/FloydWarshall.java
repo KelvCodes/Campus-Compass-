@@ -1,8 +1,6 @@
 
 ew i][j] = edge.weight;
-                next[i][j] = j;
- 0; k < n; k++) {
-            for (int i = 0; i < n; i++) {
+                 < n; i++) {
                 for (int j = 0; j < n; j++) {
                     if (distances[i][k] + distances[k][j] < distances[i][j]) {
                         distances[i][j] = distances[i][k] + distances[k][j];
