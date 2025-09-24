@@ -1,6 +1,4 @@
 
-        
-        for (int i = 0; i < n; i++) {
             Nodes node = nodesList.get(i);
             for (Edge edge : node.edges) {
                 int j = nodesList.indexOf(edge.destination);
