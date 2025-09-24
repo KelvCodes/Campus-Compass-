@@ -1,9 +1,5 @@
 
-ew Art n = es = new double[n][n];
-        int[][] next
-            distances[i][i] = 0;
-        }
-        
+ew 
         for (int i = 0; i < n; i++) {
             Nodes node = nodesList.get(i);
             for (Edge edge : node.edges) {
