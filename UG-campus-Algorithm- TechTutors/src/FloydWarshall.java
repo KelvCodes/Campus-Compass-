@@ -1,5 +1,4 @@
-es;
-        public int[][] next;
+
         public List<String> path;
         public double totalDistance;
         
