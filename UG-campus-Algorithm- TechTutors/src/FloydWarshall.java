@@ -1,8 +1,6 @@
 
 ew ArrayList<>(graph.getNodes());
-        int n = nodesList.size();
-        
-        double[][] distances = new double[n][n];
+        int n = es = new double[n][n];
         int[][] next = new int[n][n];
         
         for (int i = 0; i < n; i++) {
