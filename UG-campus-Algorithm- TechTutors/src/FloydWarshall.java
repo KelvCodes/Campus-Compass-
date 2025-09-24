@@ -1,7 +1,6 @@
 
 ew Art n = es = new double[n][n];
-        int[][] next = new int[n][n];
-     s.fill(next[i], -1);
+        int[][] next
             distances[i][i] = 0;
         }
         
