@@ -2,8 +2,6 @@
  static List<String> reconstructPath(int[][] next, List<Nodes> nodesList, int start, int end) {
         List<String> path = new ArrayList<>();
         
-        if (next[start][end] == -1) {
-            return path;
         }
         
         path.add(nodesList.get(start).name);
