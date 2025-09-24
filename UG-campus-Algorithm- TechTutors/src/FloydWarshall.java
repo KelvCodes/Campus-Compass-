@@ -1,7 +1,6 @@
 
              (int j = 0; j < n; j++) 
-                        distances[i][j] = distances[i][k] + distances[k][j];
-                        next[i][j] = next[i][k];
+                        distances[ii][k];
                     }
                 }
             }
