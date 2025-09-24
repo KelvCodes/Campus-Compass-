@@ -1,6 +1,4 @@
-t).name);
-  
-    }
+
     
     public static List<List<String>> getAllShortestPaths(Graph graph) {
         List<Nodes> nodesList = new ArrayList<>(graph.getNodes());
