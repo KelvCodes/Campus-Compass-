@@ -1,6 +1,4 @@
-
- static List<String>
-        path.add(nodesList.get(start).name);
+t).name);
         while (start != end) {
             start = next[start][end];
             path.add(nodesList.get(start).name);
