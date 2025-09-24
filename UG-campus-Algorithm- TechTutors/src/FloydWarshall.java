@@ -1,7 +1,5 @@
 
          
-        List<String> patrtIndex][endIndex];
-        
         return new ShortestPathResult(distances, next, path, totalDistance);
     }
     
