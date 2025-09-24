@@ -1,10 +1,5 @@
 t).name);
-        while (start != end) {
-            start = next[start][end];
-            path.add(nodesList.get(start).name);
-        }
-        
-        return path;
+  
     }
     
     public static List<List<String>> getAllShortestPaths(Graph graph) {
