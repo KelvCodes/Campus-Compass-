@@ -1,10 +1,7 @@
 
 ew Art n = es = new double[n][n];
         int[][] next = new int[n][n];
-        
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(distances[i], INF);
-            Arrays.fill(next[i], -1);
+     s.fill(next[i], -1);
             distances[i][i] = 0;
         }
         
