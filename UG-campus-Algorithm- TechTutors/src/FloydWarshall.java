@@ -1,5 +1,4 @@
-
-        public ShortestPathResult(double[][] distances, int[][] next, List<String> path, double totalDistance) {
+[][] distances, int[][] next, List<String> path, double totalDistance) {
             this.distances = distances;
             this.next = next;
             this.path = path;
