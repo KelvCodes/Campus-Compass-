@@ -1,5 +1,4 @@
 
-            NList.indexOf(edge.destination);
                 distances[i][j] = edge.weight;
                 next[i][j] = j;
             }
