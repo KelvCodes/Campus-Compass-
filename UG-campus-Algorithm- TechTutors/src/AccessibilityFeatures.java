@@ -1,5 +1,4 @@
 
-            boolean hasSmoothSurface, boolean hasRestArea, boolean hasShade,
             int stepCount, double pathWidth) {
             this.hasRamp = hasRamp;
             this.hasElevator = hasElevator;
