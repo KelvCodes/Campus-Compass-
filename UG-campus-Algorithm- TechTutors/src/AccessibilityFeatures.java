@@ -1,6 +1,5 @@
 ;
-        locationAccessibility.put("Sarbah Park", new AccessibilityInfo(e, true, false, false, 0, 2.0));
-        locationAccessibility.put("Night Market", new AccessibilityInfo(false, false, false, false, false, false, 0, 1.0));
+        locationAccessibility.put("Sarbah Park", new Accessibilifalse, false, false, false, 0, 1.0));
         locationAccessibility.put("Fire Station", new AccessibilityInfo(true, false, true, true, false, false, 0, 2.5));
     }
     
