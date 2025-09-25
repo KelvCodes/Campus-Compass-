@@ -1,7 +1,5 @@
 
-    public static class AccessibilityRoute {
-        public List<String> path;
-        public double distance;
+    public static class Acc
         public double time;
         public String accessibilityType;
         public List<String> features;
