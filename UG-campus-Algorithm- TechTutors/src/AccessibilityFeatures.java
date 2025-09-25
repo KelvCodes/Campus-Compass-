@@ -2,9 +2,6 @@
         for (String location : path) {
             Acce
                 
-                addAccessibilityFeatures(route, info, location);
-            }
-        }
         
         if (locationCount > 0) {
             route.accessibilityScore = totalScore / locationCount;
