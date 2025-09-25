@@ -1,7 +1,5 @@
 ;n"
-    public static AccessibilityRoute createAccessibleRoute(List<String> path, double distance, double time, String accessibilityType) {
-        AccessibilityRoute route = new AccessibilityRoute(path, distance, time, accessibilityType);
-        
+    public static Acces
         double totalScore = 0.0;
         int locationCount = 0;
         
