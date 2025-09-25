@@ -1,8 +1,6 @@
 ;
         locationAccessibility.put("Sarbah Park", new Accessibilifalse, false, false, false, 0, 1.0));
-        locationAccessibility.put("Fire Station", new AccessibilityInfo(true, false, true, true, false, false, 0, 2.5));
-    }
-    
+        locationAccessibility.put("Fire Station"
     public static AccessibilityRoute createAccessibleRoute(List<String> path, double distance, double time, String accessibilityType) {
         AccessibilityRoute route = new AccessibilityRoute(path, distance, time, accessibilityType);
         
