@@ -1,5 +1,4 @@
-
-            this.accessibilityType = accessibilityType;
+lityType;
             this.features = new ArrayList<>();
             this.accessibilityScore = 1.0;
         }
