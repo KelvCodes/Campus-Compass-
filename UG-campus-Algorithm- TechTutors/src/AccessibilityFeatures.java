@@ -1,6 +1,4 @@
 
-        
-        public AccessibilityInfo(boolean hasRamp, boolean hasElevator, boolean hasWidePath,
             boolean hasSmoothSurface, boolean hasRestArea, boolean hasShade,
             int stepCount, double pathWidth) {
             this.hasRamp = hasRamp;
