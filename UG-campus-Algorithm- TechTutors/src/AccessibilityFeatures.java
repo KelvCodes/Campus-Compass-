@@ -1,8 +1,4 @@
 
-            this.pathWidth = pathWidth;
-        }
-    }
-    
     private static Map<String, AccessibilityInfo> locationAccessibility = new HashMap<>();
     
     static {
