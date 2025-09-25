@@ -1,9 +1,4 @@
-lityType;
-            this.features = new ArrayList<>();
-            this.accessibilityScore = 1.0;
-        }
-    }
-    
+
     public static class AccessibilityInfo {
         public boolean hasRamp;
         public boolean hasElevator;
