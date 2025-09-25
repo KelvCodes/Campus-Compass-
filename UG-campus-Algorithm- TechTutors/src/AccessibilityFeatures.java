@@ -1,6 +1,4 @@
-= 0.0;
-        int locationCount = 0;
-        
+
         for (String location : path) {
             AccessibilityInfo info = locationAccessibility.get(location);
             if (info != null) {
