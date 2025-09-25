@@ -1,5 +1,4 @@
-
-        locationAccessibility.put new AccessibilityInfo(true, false, true, true, true, true, 0, 2.5));
+;
         locationAccessibility.put("Sarbah Park", new AccessibilityInfo(true, false, true, true, true, true, 0, 3.0));
         locationAccessibility.put("Banking Square", new AccessibilityInfo(true, false, true, true, false, false, 0, 2.0));
         locationAccessibility.put("Night Market", new AccessibilityInfo(false, false, false, false, false, false, 0, 1.0));
