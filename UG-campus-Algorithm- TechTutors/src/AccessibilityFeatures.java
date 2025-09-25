@@ -1,5 +1,4 @@
 
-        public boolean hasRestArea;
         public boolean hasShade;
         public int stepCount;
         public double pathWidth;
