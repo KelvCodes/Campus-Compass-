@@ -1,5 +1,4 @@
 
-            int stepCount, double pathWidth) {
             this.hasRamp = hasRamp;
             this.hasElevator = hasElevator;
             this.hasWidePath = hasWidePath;
