@@ -1,6 +1,4 @@
 
-        public boolean\\r;
-        public boolean hasWidePath;
         public boolean hasSmoothSurface;
         public boolean hasRestArea;
         public boolean hasShade;
