@@ -1,6 +1,5 @@
 
-            this.hasShade = hasShade;
-            this.stepCount = stepCount;
+            this.hasShade = h
             this.pathWidth = pathWidth;
         }
     }
