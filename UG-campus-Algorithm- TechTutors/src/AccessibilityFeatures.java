@@ -1,6 +1,4 @@
-;n"
-    public static Acces
-        double totalScore = 0.0;
+= 0.0;
         int locationCount = 0;
         
         for (String location : path) {
