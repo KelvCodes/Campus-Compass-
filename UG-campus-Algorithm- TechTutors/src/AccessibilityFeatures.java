@@ -1,10 +1,7 @@
 tializeAccessibilityData();
     }y.put("Engineering School", new AccessibilityInfo(true, true, true, true, false, false, 5, 2.5));
         locationAccessibility.put("CS Department", new AccessibilityInfo(true, true, true, true, true, false, 3, 2.0));
-        locationAccessibility.put("Math Department", new AccessibilityInfo(true, true, true, true, false, false, 2, 2.0));
-        locationAccessibility.put("Balme Library", new AccessibilityInfo(true, true, true, true, true, true, 8, 3.0));
-        locationAccessibility.put("UGCS", new AccessibilityInfo(true, true, true, true, true, false, 4, 2.5));
-        locationAccessibility.put("Business School", new AccessibilityInfo(true, true, true, true, false, false, 6, 2.5));
+        locationAccessibiSchool", new AccessibilityInfo(true, true, true, true, false, false, 6, 2.5));
         locationAccessibility.put("Volta Hall", new AccessibilityInfo(false, false, false, true, true, true, 15, 1.5));
         locationAccessibility.put("Akuafo Hall", new AccessibilityInfo(false, false, false, true, true, true, 12, 1.5));
         locationAccessibility.put("Legon Hall", new AccessibilityInfo(false, false, false, true, true, true, 10, 1.5));
