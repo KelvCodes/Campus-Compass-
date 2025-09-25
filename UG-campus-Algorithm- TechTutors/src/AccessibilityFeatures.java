@@ -1,5 +1,4 @@
-
-    private static Map<String, AccessibilityInfo> locationAccessibility = new HashMap<>();
+tring, AccessibilityInfo> locationAccessibility = new HashMap<>();
     
     static {
         initializeAccessibilityData();
