@@ -1,13 +1,4 @@
-
-        for (String location : path) {
-TimeForAccessibility(route.time, accessibilityType, route.accessibilityScore);
- .toLowerCase()) {
-            case "wheelchair":
-                if (info.hasRamp) score += 0.3;
-                if (info.hasElevator) score += 0.3;
-                if (info.hasWidePath) score += 0.2;
-                if (info.hasSmoothSurface) score += 0.2;
-                if (info.stepCount > 0) score -= 0.5;
+epCount > 0) score -= 0.5;
                 break;
                 
             case "elderly":
