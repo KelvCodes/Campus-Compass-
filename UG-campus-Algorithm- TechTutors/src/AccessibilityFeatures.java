@@ -1,5 +1,4 @@
 
-            this.time = time;
             this.accessibilityType = accessibilityType;
             this.features = new ArrayList<>();
             this.accessibilityScore = 1.0;
