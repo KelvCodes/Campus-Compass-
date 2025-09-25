@@ -1,6 +1,4 @@
-
-            this.hasRamp = hasRator;
-            this.hasWidePath = hasWidePath;
+ePath;
             this.hasSmoothSurface = hasSmoothSurface;
             this.hasRestArea = hasRestArea;
             this.hasShade = hasShade;
