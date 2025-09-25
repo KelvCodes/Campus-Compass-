@@ -1,6 +1,5 @@
 
-        
-        public AbilityRoute(List<String> path, double distance, double time, String accessibilityType) {
+        oute(List<String> path, double distance, double time, String accessibilityType) {
             this.path = path;
             this.distance = distance;
             this.time = time;
