@@ -1,4 +1,3 @@
-t java.util.*;
 
     public static class AccessibilityRoute {
         public List<String> path;
