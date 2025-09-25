@@ -1,5 +1,4 @@
 
-        public List<String> features;
         public double accessibilityScore;
         
         public AccessibilityRoute(List<String> path, double distance, double time, String accessibilityType) {
