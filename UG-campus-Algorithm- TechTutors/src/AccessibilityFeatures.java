@@ -1,5 +1,4 @@
-ePath;
-            this.hasSmoothSurface = hasSmoothSurface;
+
             this.hasRestArea = hasRestArea;
             this.hasShade = hasShade;
             this.stepCount = stepCount;
