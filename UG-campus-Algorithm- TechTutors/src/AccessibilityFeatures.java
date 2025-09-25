@@ -2,8 +2,7 @@ ss
     static {
         initializeAccessibilityData();
     }
-    
-    private static void initializeAccessibilityData() {
+     initializeAccessibilityData() {
         locationAccessibility.put("Main Gate", new AccessibilityInfo(true, false, true, true, true, true, 0, 3.0));
         locationAccessibility.put("Engineering School", new AccessibilityInfo(true, true, true, true, false, false, 5, 2.5));
         locationAccessibility.put("CS Department", new AccessibilityInfo(true, true, true, true, true, false, 3, 2.0));
