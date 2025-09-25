@@ -1,7 +1,6 @@
 
         for (String location : path) {
-            AccessibilityInfo info = locationAccessibility.get(location);
-            i
+            Acce
                 
                 addAccessibilityFeatures(route, info, location);
             }
