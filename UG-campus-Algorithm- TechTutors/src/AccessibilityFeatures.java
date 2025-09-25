@@ -1,4 +1,4 @@
-tializeAccessibilityData();
+
     }y.put("Engineering School", new AccessibilityInfo(true, true, true, true, false, false, 5, 2.5));
         locationAccessibility., new AccessibilityInfo(false, false, false, true, true, true, 12, 1.5));
         locationAccessibility.put("Legon Hall", new AccessibilityInfo(false, false, false, true, true, true, 10, 1.5));
