@@ -1,5 +1,4 @@
 
-            this.hasRestArea = hasRestArea;
             this.hasShade = hasShade;
             this.stepCount = stepCount;
             this.pathWidth = pathWidth;
