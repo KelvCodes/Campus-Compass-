@@ -1,14 +1,7 @@
 
         for (String location : path) {
 TimeForAccessibility(route.time, accessibilityType, route.accessibilityScore);
-        
-        return route;
-    }
-    
-    private static double calculateAccessibilityScore(AccessibilityInfo info, String accessibilityType) {
-        double score = 1.0;
-        
-        switch (accessibilityType.toLowerCase()) {
+ .toLowerCase()) {
             case "wheelchair":
                 if (info.hasRamp) score += 0.3;
                 if (info.hasElevator) score += 0.3;
