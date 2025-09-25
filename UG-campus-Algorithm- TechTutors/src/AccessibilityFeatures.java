@@ -1,5 +1,4 @@
 
-    public static class AccessibilityInfo {
         public boolean hasRamp;
         public boolean hasElevator;
         public boolean hasWidePath;
