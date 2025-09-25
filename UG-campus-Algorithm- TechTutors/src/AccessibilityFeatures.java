@@ -1,8 +1,5 @@
 tializeAccessibilityData();
-    }
-     initializeAccessibilityData() {
-        locationAccessibility.put("Main Gate", new AccessibilityInfo(true, false, true, true, true, true, 0, 3.0));
-        locationAccessibility.put("Engineering School", new AccessibilityInfo(true, true, true, true, false, false, 5, 2.5));
+    }y.put("Engineering School", new AccessibilityInfo(true, true, true, true, false, false, 5, 2.5));
         locationAccessibility.put("CS Department", new AccessibilityInfo(true, true, true, true, true, false, 3, 2.0));
         locationAccessibility.put("Math Department", new AccessibilityInfo(true, true, true, true, false, false, 2, 2.0));
         locationAccessibility.put("Balme Library", new AccessibilityInfo(true, true, true, true, true, true, 8, 3.0));
