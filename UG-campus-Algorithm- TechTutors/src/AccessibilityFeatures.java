@@ -1,6 +1,4 @@
 
-            this.distance = distance;
-
             this.time = time;
             this.accessibilityType = accessibilityType;
             this.features = new ArrayList<>();
