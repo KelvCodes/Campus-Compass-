@@ -1,10 +1,7 @@
 
         for (String location : path) {
             AccessibilityInfo info = locationAccessibility.get(location);
-            if (info != null) {
-                double score = calculateAccessibilityScore(info, accessibilityType);
-                totalScore += score;
-                locationCount++;
+            i
                 
                 addAccessibilityFeatures(route, info, location);
             }
