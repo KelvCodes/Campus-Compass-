@@ -1,5 +1,4 @@
 
-        public int stepCount;
         public double pathWidth;
         
         public AccessibilityInfo(boolean hasRamp, boolean hasElevator, boolean hasWidePath,
