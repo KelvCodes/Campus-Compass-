@@ -1,13 +1,6 @@
 
         for (String location : path) {
-            Acce
-                
-        
-        if (locationCount > 0) {
-            route.accessibilityScore = totalScore / locationCount;
-        }
-        
-        route.time = adjustTimeForAccessibility(route.time, accessibilityType, route.accessibilityScore);
+TimeForAccessibility(route.time, accessibilityType, route.accessibilityScore);
         
         return route;
     }
