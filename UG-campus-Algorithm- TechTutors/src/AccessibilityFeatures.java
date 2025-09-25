@@ -1,5 +1,4 @@
 
-        public String accessibilityType;
         public List<String> features;
         public double accessibilityScore;
         
