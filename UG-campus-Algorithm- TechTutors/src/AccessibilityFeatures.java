@@ -1,6 +1,4 @@
-ss
-    static {
-        initializeAccessibilityData();
+tializeAccessibilityData();
     }
      initializeAccessibilityData() {
         locationAccessibility.put("Main Gate", new AccessibilityInfo(true, false, true, true, true, true, 0, 3.0));
