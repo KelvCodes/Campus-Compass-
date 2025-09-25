@@ -1,7 +1,5 @@
 t java.util.*;
 
-public class AccessibilityFeatures {
-    
     public static class AccessibilityRoute {
         public List<String> path;
         public double distance;
