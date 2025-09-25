@@ -1,6 +1,4 @@
 
-    public static class Acc
-        public double time;
         public String accessibilityType;
         public List<String> features;
         public double accessibilityScore;
