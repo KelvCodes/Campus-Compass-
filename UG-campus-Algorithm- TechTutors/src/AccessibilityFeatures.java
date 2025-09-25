@@ -1,6 +1,5 @@
 
-        public boolean hasRamp;
-        public boolean hasElevator;
+        public boolean\\r;
         public boolean hasWidePath;
         public boolean hasSmoothSurface;
         public boolean hasRestArea;
