@@ -1,5 +1,4 @@
 
-            this.hasShade = h
             this.pathWidth = pathWidth;
         }
     }
