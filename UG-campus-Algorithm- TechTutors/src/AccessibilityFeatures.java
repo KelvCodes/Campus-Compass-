@@ -1,4 +1,4 @@
-tring, AccessibilityInfo> locationAccessibility = new HashMap<>();
+ssibilityInfo> locationAccessibility = new HashMap<>();
     
     static {
         initializeAccessibilityData();
