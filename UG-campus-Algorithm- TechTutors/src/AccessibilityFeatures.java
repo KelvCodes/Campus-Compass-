@@ -1,5 +1,4 @@
 
-        public double pathWidth;
         
         public AccessibilityInfo(boolean hasRamp, boolean hasElevator, boolean hasWidePath,
             boolean hasSmoothSurface, boolean hasRestArea, boolean hasShade,
