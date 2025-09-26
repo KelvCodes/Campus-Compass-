@@ -1,6 +1,5 @@
 
-        allTasks.add(end);
-        allTasks.add(F);
+        allTasks.add(e
         allTasks.add(A);
         allTasks.add(X);
         allTasks.add(Q);
