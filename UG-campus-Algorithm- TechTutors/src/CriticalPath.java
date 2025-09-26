@@ -1,4 +1,4 @@
-isDependent(Task t){
+
             if(dependencies.contains(t)){
                 return true;
             }
