@@ -1,6 +1,4 @@
-pendencies.add(t);
-            }
-        }
+
         @Override
         public String toString() {
             return name+": "+criticalCost;
