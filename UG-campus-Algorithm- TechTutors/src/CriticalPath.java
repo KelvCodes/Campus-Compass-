@@ -1,4 +1,4 @@
-println("Critical Path: "+Arrays.toString(criticalPath(allTasks)));
+
     }
 
     public static class Task{
