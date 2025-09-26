@@ -1,6 +1,5 @@
 
-
-            for(Iterator<Task> it = remaining.iterator();it.hasNext();){
+remaining.iterator();it.hasNext();){
                 Task task = it.next();
                 if(completed.containsAll(task.dependencies)){
                     int critical = 0;
