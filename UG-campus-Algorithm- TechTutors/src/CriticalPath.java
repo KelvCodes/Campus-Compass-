@@ -1,6 +1,5 @@
 
-    
-            for(Task dep : dependencies){
+     : dependencies){
                 if(dep.isDependent(t)){
                     return true;
                 }
