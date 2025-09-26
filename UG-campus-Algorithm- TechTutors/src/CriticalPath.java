@@ -1,8 +1,6 @@
 
                 if(dep.isDependent(t)){
-                    return true;
-                }
-            }
+               
             return false;
         }
     }
