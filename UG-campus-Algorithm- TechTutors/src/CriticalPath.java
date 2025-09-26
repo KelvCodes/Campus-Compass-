@@ -1,6 +1,5 @@
 
-        
-        public Task(String name, int cost, Task... dependencies) {
+... dependencies) {
             this.name = name;
             this.cost = cost;
             for(Task t : dependencies){
