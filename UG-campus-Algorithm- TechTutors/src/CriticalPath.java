@@ -1,7 +1,4 @@
 
-               
-            r
-    }
 
     public static Task[] criticalPath(Set<Task> tasks){
         HashSet<Task> completed = new HashSet<Task>();
