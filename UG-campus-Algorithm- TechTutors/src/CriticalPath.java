@@ -1,5 +1,4 @@
 
-                if(completed.containsAll(task.dependencies)){
                     int critical = 0;
                     for(Task t : task.dependencies){
                         if(t.criticalCost > critical){
