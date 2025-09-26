@@ -1,5 +1,4 @@
 
-                if(dep.isDependent(t)){
                
             return false;
         }
