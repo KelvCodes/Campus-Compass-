@@ -1,5 +1,4 @@
 
-                    completed.add(task);
                     it.remove();
                     progress = true;
                 }
