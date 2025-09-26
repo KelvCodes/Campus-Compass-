@@ -1,7 +1,5 @@
 
-... dependencies) {
-          
-            for(Task t : dependencies){
+... dependencies)es){
                 this.dependencies.add(t);
             }
         }
