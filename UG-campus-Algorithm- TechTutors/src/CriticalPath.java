@@ -1,5 +1,4 @@
-
-        Task[] ret = completed.toArray(new Task[0]);
+k[0]);
         Arrays.sort(ret, new Comparator<Task>() {
 
             @Override
