@@ -1,5 +1,4 @@
 
-                    int critical = 0;
                     for(Task t : task.dependencies){
                         if(t.criticalCost > critical){
                             critical = t.criticalCost;
