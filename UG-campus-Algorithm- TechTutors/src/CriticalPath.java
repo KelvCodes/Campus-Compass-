@@ -1,6 +1,6 @@
 
         
-        public HashSet<Task> dependencies = new HashSet<Task>();
+        public Hpendencies = new HashSet<Task>();
         public Task(String name, int cost, Task... dependencies) {
             this.name = name;
             this.cost = cost;
