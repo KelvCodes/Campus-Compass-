@@ -1,7 +1,6 @@
 
 ... dependencies) {
-            this.name = name;
-            this.cost = cost;
+          
             for(Task t : dependencies){
                 this.dependencies.add(t);
             }
