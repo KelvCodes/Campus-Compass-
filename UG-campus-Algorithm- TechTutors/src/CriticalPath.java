@@ -1,5 +1,4 @@
 
-                Task task = it.next();
                 if(completed.containsAll(task.dependencies)){
                     int critical = 0;
                     for(Task t : task.dependencies){
