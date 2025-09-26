@@ -1,6 +1,6 @@
 
 
-public class CriticalPath {
+public criticalPath {
 
     public static void main(String[] args) {
 
