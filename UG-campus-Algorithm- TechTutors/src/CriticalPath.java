@@ -1,6 +1,4 @@
-
-        }
-        public boolean isDependent(Task t){
+isDependent(Task t){
             if(dependencies.contains(t)){
                 return true;
             }
