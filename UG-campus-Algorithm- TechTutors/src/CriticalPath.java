@@ -1,5 +1,4 @@
 
-        Task start = new Task("Start", 0, Q);
         allTasks.add(end);
         allTasks.add(F);
         allTasks.add(A);
