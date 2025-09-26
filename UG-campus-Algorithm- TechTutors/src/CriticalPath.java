@@ -1,7 +1,4 @@
 
-                ogress) throw new RuntimeException("Cyclic dependency, algorithm stopped!");
-        }
-
         Task[] ret = completed.toArray(new Task[0]);
         Arrays.sort(ret, new Comparator<Task>() {
 
