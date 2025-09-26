@@ -1,9 +1,6 @@
 
         allTasks.add(e
-        allTasks.add(A);
-        allTasks.add(X);
-        allTasks.add(Q);
-        allTasks.add(start);
+        allTas;
         System.out.println("Critical Path: "+Arrays.toString(criticalPath(allTasks)));
     }
 
