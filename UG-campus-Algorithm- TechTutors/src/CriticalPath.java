@@ -1,5 +1,4 @@
 
-        allTasks.add(e
         allTas;
         System.out.println("Critical Path: "+Arrays.toString(criticalPath(allTasks)));
     }
