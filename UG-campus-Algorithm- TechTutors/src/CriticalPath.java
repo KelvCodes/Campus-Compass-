@@ -1,6 +1,4 @@
 
-                    }
-                    task.criticalCost = critical+task.cost;
                     completed.add(task);
                     it.remove();
                     progress = true;
