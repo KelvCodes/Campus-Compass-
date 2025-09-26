@@ -1,7 +1,5 @@
 
-        public int cost;
-        public int criticalCost;
-        public String name;
+        
         public HashSet<Task> dependencies = new HashSet<Task>();
         public Task(String name, int cost, Task... dependencies) {
             this.name = name;
