@@ -1,7 +1,6 @@
 
 
 
-        HashSet<Task> allTasks = new HashSet<Task>();
         Task end = new Task("End", 0);
         Task F = new Task("F", 2, end);
         Task A = new Task("A", 3, end);
