@@ -1,5 +1,4 @@
 
-            if(dependencies.contains(t)){
                 return true;
             }
             for(Task dep : dependencies){
