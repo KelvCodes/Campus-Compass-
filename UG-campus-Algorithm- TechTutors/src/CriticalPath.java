@@ -1,5 +1,4 @@
 
-        public S "+criticalCost;
         }
         public boolean isDependent(Task t){
             if(dependencies.contains(t)){
