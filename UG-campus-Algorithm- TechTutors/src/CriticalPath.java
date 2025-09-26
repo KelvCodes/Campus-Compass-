@@ -1,7 +1,5 @@
 
-                    it.remove();
-                    progress = true;
-                }
+                    it.remove(
             }
             if(!progress) throw new RuntimeException("Cyclic dependency, algorithm stopped!");
         }
