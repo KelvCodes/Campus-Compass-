@@ -1,6 +1,4 @@
 
-        HashSet<Task> completed = new HashSet<Task>
-
         while(!remaining.isEmpty()){
             boolean progress = false;
 
