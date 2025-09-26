@@ -1,6 +1,5 @@
 
 
-    public static void main(String[] args) {
 
         HashSet<Task> allTasks = new HashSet<Task>();
         Task end = new Task("End", 0);
