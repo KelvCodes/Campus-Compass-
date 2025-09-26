@@ -1,5 +1,4 @@
 
-        while(!remaining.isEmpty()){
 
             for(Iterator<Task> it = remaining.iterator();it.hasNext();){
                 Task task = it.next();
