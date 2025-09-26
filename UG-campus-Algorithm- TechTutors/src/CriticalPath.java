@@ -1,7 +1,5 @@
 
-                    it.remove(
-            }
-            if(!progress) throw new RuntimeException("Cyclic dependency, algorithm stopped!");
+                ogress) throw new RuntimeException("Cyclic dependency, algorithm stopped!");
         }
 
         Task[] ret = completed.toArray(new Task[0]);
