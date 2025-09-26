@@ -1,7 +1,5 @@
 
 
-
-        Task F = new Task("F", 2, end);
         Task A = new Task("A", 3, end);
         Task X = new Task("X", 4, F, A);
         Task Q = new Task("Q", 2, A, X);
