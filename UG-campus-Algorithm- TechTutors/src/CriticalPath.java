@@ -1,7 +1,4 @@
 
-    }
-
-    public static class Task{
         public int cost;
         public int criticalCost;
         public String name;
