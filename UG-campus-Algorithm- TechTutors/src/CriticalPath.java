@@ -1,5 +1,5 @@
 
-        public String toString() {
+        public String 
             return name+": "+criticalCost;
         }
         public boolean isDependent(Task t){
