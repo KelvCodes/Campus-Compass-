@@ -1,6 +1,4 @@
 
-                            critical = t.criticalCost;
-                        }
                     }
                     task.criticalCost = critical+task.cost;
                     completed.add(task);
