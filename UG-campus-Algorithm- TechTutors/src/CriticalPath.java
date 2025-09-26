@@ -1,7 +1,5 @@
 
 
-public criticalPath {
-
     public static void main(String[] args) {
 
         HashSet<Task> allTasks = new HashSet<Task>();
