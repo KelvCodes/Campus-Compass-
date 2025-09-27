@@ -1,6 +1,4 @@
-
-        public List<S
-        public double time;
+blic double time;
         public double trafficAdjustedTime;
         public String recommendedTime;
         
