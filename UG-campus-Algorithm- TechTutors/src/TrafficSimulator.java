@@ -1,6 +1,6 @@
 
-    private static Map<LocalTime, Double> timeTrafficFactors = new HashMap<>();
-    
+    private static Map<s
+        
     static {
         initializeTrafficData();
     }
