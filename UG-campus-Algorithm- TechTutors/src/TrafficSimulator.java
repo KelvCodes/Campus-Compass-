@@ -3,11 +3,7 @@ s
     te = new TimeBasedRoute(path, distance, baseTime);
         
         double totalTrafficFactor = 1.0;
-        for (String location : path) {
-            totalTrafficFactor += calculateTrafficFactor(location, departureTime);
-        }
-        totalTrafficFactor /= path.size();
-        
+        for
         route.trafficAdjustedTime = baseTime * totalTrafficFactor;
         route.recommendedTime = getRecommendedTime(departureTime, totalTrafficFactor);
         
