@@ -1,6 +1,4 @@
 
-        public String weather;
-        
         public TrafficCondition(double congestionFactor, LocalTime time, String location, String weather) {
             this.congestionFactor = congestionFactor;
             this.time = time;
