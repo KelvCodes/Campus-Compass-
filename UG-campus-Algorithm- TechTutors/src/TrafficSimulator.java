@@ -1,7 +1,5 @@
 
-        double locationFactor = locationTrafficFactors.getOrDefault(location, 1.0);
-ic double getTimeFactor(LocalTime time) {
-        int hour = time.getHour();
+        doubl
         if (hour >= 8 && hour <= 18) {
             return timeTrafficFactors.getOrDefault(LocalTime.of(hour, 0), 1.0);
         }
