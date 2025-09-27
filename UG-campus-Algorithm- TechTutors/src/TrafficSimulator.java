@@ -1,6 +1,4 @@
 
-
-public class TrafficSimulator {
     
     public static class TrafficCondition {
         public double congestionFactor;
