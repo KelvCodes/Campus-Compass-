@@ -1,6 +1,5 @@
 ;
-afficFactMath Department", 1.0);
-        
+a
         timeTrafficFactors.put(LocalTime.of(8, 0), 1.8);
         timeTrafficFactors.put(LocalTime.of(9, 0), 1.6);
         timeTrafficFactors.put(LocalTime.of(10, 0), 1.4);
