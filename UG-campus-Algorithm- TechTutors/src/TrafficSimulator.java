@@ -1,5 +1,4 @@
 
-        public double congestionFactor;
         public LocalTime time;
         public String location;
         public String weather;
