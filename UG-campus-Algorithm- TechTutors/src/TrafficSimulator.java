@@ -1,7 +1,6 @@
 
-
-    public static TimeBasedRoute optimizeForTime(List<String> path, double distance, double baseTime, LocalTime departureTime) {
-        TimeBasedRoute route = new TimeBasedRoute(path, distance, baseTime);
+s
+    te = new TimeBasedRoute(path, distance, baseTime);
         
         double totalTrafficFactor = 1.0;
         for (String location : path) {
