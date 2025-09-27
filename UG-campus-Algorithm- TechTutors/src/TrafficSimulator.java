@@ -1,5 +1,4 @@
 
-        public double trafficAdjustedTime;
         public String recommendedTime;
         
         public TimeBasedRoute(List<String> path, double distance, double time) {
