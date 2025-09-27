@@ -1,6 +1,5 @@
 
-        public List<String> path;
-        public double distance;
+        public List<S
         public double time;
         public double trafficAdjustedTime;
         public String recommendedTime;
