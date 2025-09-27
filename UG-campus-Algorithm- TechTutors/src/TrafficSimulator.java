@@ -1,6 +1,4 @@
 
-        pu;
-        public String location;
         public String weather;
         
         public TrafficCondition(double congestionFactor, LocalTime time, String location, String weather) {
