@@ -1,4 +1,4 @@
-blic double time;
+
         public double trafficAdjustedTime;
         public String recommendedTime;
         
