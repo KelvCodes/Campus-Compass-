@@ -1,7 +1,6 @@
 ;
         locationTrafficFactors.put("Night Market", 1.6);
-        locationTrafficFactors.put("Banking Square", 1.2);
-        locationTrafficFactors.put("Engineering School", 1.1);
+        loctors.put("Engineering School", 1.1);
         locationTrafficFactMath Department", 1.0);
         
         timeTrafficFactors.put(LocalTime.of(8, 0), 1.8);
