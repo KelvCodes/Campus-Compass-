@@ -1,6 +1,4 @@
-ocation;
-            this.weather = weather;
-        }
+
     }
     
     public static class TimeBasedRoute {
