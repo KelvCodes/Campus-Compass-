@@ -1,5 +1,4 @@
-
-            this.location = location;
+ocation;
             this.weather = weather;
         }
     }
