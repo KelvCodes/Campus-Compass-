@@ -1,5 +1,4 @@
-
-    public static double calculateTrafficFactor(String location, LocalTime time) {
+tring location, LocalTime time) {
         double locationFactor = locationTrafficFactors.getOrDefault(location, 1.0);
         double timeFactor = getTimeFactor(time);
         return locationFactor * timeFactor;
