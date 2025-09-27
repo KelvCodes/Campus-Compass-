@@ -1,6 +1,4 @@
 
-    
-    public static class TrafficCondition {
         public double congestionFactor;
         public LocalTime time;
         public String location;
