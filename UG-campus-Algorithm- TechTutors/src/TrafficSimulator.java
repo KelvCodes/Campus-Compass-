@@ -1,8 +1,5 @@
 
         doubl
-        if (hour >= 8 && hour <= 18) {
-            return timeTrafficFactors.getOrDefault(LocalTime.of(hour, 0), 1.0);
-        }
         return 0.8;
     }
     
