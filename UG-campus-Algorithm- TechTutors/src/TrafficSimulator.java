@@ -1,6 +1,4 @@
 
-    
-    private static Map<String, Double> locationTrafficFactors = new HashMap<>();
     private static Map<LocalTime, Double> timeTrafficFactors = new HashMap<>();
     
     static {
