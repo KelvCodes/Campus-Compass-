@@ -1,6 +1,5 @@
 
-        
-        public TimeBasedRoute(List<String> path, double distance, double time) {
+  , double distance, double time) {
             this.path = path;
             this.distance = distance;
             this.time = time;
