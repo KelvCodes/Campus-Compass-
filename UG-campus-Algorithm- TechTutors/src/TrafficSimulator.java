@@ -1,8 +1,5 @@
 
-        doubl
-        return 0.8;
-    }
-    
+
     public static TimeBasedRoute optimizeForTime(List<String> path, double distance, double baseTime, LocalTime departureTime) {
         TimeBasedRoute route = new TimeBasedRoute(path, distance, baseTime);
         
