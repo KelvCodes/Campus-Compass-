@@ -1,9 +1,6 @@
 
     private static Map<s
-        
-    static {
-        initializeTrafficData();
-    }
+
     
     private static void initializeTrafficData() {
         locationTrafficFactors.put("Main Gate", 1.5);
