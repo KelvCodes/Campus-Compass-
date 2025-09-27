@@ -1,7 +1,6 @@
 ;
 acFactors.put(LocalTime.of(11, 0), 1.3);
-        timrs.put(LocalTime.of(15, 0), 1.3);
-        timeTrafficFactors.put(LocalTime.of(16, 0), 1.6);
+        timctors.put(LocalTime.of(16, 0), 1.6);
         timeTrafficFactors.put(LocalTime.of(17, 0), 1.9);
         timeTrafficFactors.put(LocalTime.of(18, 0), 1.7);
     }
