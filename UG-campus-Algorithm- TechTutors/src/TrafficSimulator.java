@@ -1,5 +1,4 @@
-
-        locationTrafficFactors.put("Balme Library", 1.3);
+;
         locationTrafficFactors.put("Bush Canteen", 1.4);
         locationTrafficFactors.put("Night Market", 1.6);
         locationTrafficFactors.put("Banking Square", 1.2);
