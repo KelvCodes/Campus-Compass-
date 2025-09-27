@@ -1,5 +1,4 @@
 
-  , double distance, double time) {
             this.path = path;
             this.distance = distance;
             this.time = time;
