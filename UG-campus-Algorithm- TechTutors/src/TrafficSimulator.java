@@ -1,7 +1,4 @@
 
-    private static Map<s
-
-    
     private static void initializeTrafficData() {
         locationTrafficFactors.put("Main Gate", 1.5);
         locationTrafficFactors.put("Balme Library", 1.3);
