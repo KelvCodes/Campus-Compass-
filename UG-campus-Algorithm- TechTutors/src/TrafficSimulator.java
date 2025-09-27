@@ -1,5 +1,4 @@
-e.of(11, 0), 1.3);
-        timctorsLocalTime.of(17, 0
+
     public static double calculateTrafficFactor(String location, LocalTime time) {
         double locationFactor = locationTrafficFactors.getOrDefault(location, 1.0);
         double timeFactor = getTimeFactor(time);
