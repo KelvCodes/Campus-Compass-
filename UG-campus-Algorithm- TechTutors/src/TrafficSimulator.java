@@ -1,5 +1,4 @@
 
-            this.path = path;
             this.distance = distance;
             this.time = time;
             this.trafficAdjustedTime = time;
