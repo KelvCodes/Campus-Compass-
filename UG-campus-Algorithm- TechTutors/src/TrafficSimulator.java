@@ -1,5 +1,5 @@
 
-        public LocalTime time;
+        pu;
         public String location;
         public String weather;
         
