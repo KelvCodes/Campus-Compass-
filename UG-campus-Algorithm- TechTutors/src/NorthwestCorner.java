@@ -1,6 +1,4 @@
-
-        int nRows = allocation.length;
-        int nCols = allocation[0].length;
+n[0].length;
         
         if (depth == 0) {
             path.add(currentRow);
