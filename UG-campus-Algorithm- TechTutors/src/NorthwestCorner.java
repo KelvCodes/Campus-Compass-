@@ -1,7 +1,6 @@
 l;
         
-        public TransportationResult(int[][] allocation, int ation;
-            this.totalCost = totalCost;
+        = totalCost;
             this.isOptimal = isOptimal;
         }
     }
