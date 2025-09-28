@@ -1,8 +1,4 @@
-
-        boolean ionResult(allocation, totalCost, isOptimal);
-    }
-    
-    private static boolean checkOptimality(int[][] allocation, int[][] costs, int[] supply, int[] demand) {
+ean checkOptimality(int[][] allocation, int[][] costs, int[] supply, int[] demand) {
         int nRows = supply.length;
         int nCols = demand.length;
         
