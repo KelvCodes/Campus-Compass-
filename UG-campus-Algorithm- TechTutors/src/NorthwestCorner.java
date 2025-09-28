@@ -1,6 +1,4 @@
-ength;
-        
-        boolean[][] visited = new boolean[nRows][nCols];
+ boolean[nRows][nCols];
         findPathRecursive(allocation, startRow, startCol, startRow, startCol, path, visited, 0);
         
         return path;
