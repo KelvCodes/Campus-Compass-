@@ -1,5 +1,4 @@
-esult northwestCornerMethod(int[] supply, ength;
-        int nCols = demand.length;
+emand.length;
         
         int[][] allocation = new int[nRows][nCols];
         int[] remainingSupply = supply.clone();
