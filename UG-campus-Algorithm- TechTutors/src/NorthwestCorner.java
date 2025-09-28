@@ -1,8 +1,4 @@
-[j] -= quantity;
-                }
-            }
-        }
-        
+
         boolean isOptimal = checkOptimality(allocation, costs, supply, demand);
         
         return new TransportationResult(allocation, totalCost, isOptimal);
