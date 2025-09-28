@@ -1,6 +1,5 @@
 
-    private static boolean findPathRecursive(int[][] allocation, int startRow, int startCol, 
-        int currentRow, int currentCol, List<Integer> path, 
+    private nt currentCol, List<Integer> path, 
         boolean[][] visited, int depth) {
         if (depth > 0 && currentRow == startRow && currentCol == startCol) {
             return true;
