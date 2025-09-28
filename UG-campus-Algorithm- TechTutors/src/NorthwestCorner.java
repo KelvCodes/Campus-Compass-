@@ -1,5 +1,4 @@
-ngth;
-        int nCols = allocation[0].length;
+length;
         
         List<Integer> path = findClosedPath(allocation, row, col);
         if (path.size() < 4) {
