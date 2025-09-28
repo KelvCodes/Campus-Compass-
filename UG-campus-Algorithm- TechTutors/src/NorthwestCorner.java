@@ -1,6 +1,4 @@
-emand.length;
-        
-        int[][] allocation = new int[nRows][nCols];
+ int[nRows][nCols];
         int[] remainingSupply = supply.clone();
         int[] remainingDemand = demand.clone();
         
