@@ -1,7 +1,4 @@
 
-            path.add(currentRow);
-            path.add(currentCol);
-        }
         
         visited[currentRow][currentCol] = true;
         
