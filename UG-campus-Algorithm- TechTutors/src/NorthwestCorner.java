@@ -2,8 +2,7 @@
         }
         
         int cost = 0;
-        for (int i = 0; i < path.size(); i += 2) {
-            int r = path.get(i);
+        for (int i = 0; i < path.size(); i += );
             int c = path.get(i + 1);
             cost += (i % 4 == 0) ? costs[r][c] : -costs[r][c];
         }
