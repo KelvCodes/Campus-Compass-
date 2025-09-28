@@ -1,7 +1,5 @@
 
-        boolean isOptimal = checkOptimality(allocation, costs, supply, demand);
-        
-        return new TransportationResult(allocation, totalCost, isOptimal);
+        boolean ionResult(allocation, totalCost, isOptimal);
     }
     
     private static boolean checkOptimality(int[][] allocation, int[][] costs, int[] supply, int[] demand) {
