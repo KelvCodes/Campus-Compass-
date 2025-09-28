@@ -1,7 +1,4 @@
-y = supply.clone();
-        int[] remainingDemand = demand.clone();
-        
-        int totalCost = 0;
+0;
         
         for (int i = 0; i < nRows; i++) {
             for (int j = 0; j < nCols; j++) {
