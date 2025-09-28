@@ -1,8 +1,6 @@
 length;
         
-        ion[i][j] == 0) {
-                    int opportunityCost = calculateOpportunityCost(allocation, costs, i, j);
-                    if (opportunityCost < 0) {
+        ion[i][j] == 0) < 0) {
                         return false;
                     }
                 }
