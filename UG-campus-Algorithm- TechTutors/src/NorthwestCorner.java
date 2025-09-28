@@ -1,7 +1,4 @@
-Recursive(allocation, startRow, startCol, i, currentCol, path, visited, depth + 1)) {
-                    return true;
-                }
-                path.remove(path.size() - 1);
+ath.size() - 1);
                 path.remove(path.size() - 1);
             }
         }
