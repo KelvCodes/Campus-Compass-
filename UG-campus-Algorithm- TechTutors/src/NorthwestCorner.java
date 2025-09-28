@@ -1,7 +1,5 @@
 i++) {
-            for [i][j] = quantity;
-                    totalCost += quantity * costs[i][j];
-                    
+            
                     remainingSupply[i] -= quantity;
                     remainingDemand[j] -= quantity;
                 }
