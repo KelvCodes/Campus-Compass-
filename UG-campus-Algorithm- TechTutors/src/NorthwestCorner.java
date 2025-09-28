@@ -1,5 +1,4 @@
-nt calculateOpportunityCost(int[][] allocation, int[][] costs, int row, int col) {
-        int nRows = allocation.length;
+ngth;
         int nCols = allocation[0].length;
         
         List<Integer> path = findClosedPath(allocation, row, col);
