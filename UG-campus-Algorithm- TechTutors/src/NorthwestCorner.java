@@ -1,5 +1,4 @@
-tion, int startRow, int startCol) n.length;
-        int nCols = allocation[0].length;
+tion, int startRow, int cation[0].length;
         
         boolean[][] visited = new boolean[nRows][nCols];
         findPathRecursive(allocation, startRow, startCol, startRow, startCol, path, visited, 0);
