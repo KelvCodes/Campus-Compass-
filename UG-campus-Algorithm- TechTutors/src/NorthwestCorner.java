@@ -1,8 +1,4 @@
-< nRows; i++) {
-            if (allocation[i][currentCol] > 0 && !visited[i][currentCol]) {
-                path.add(i);
-                path.add(currentCol);
-                if (findPathRecursive(allocation, startRow, startCol, i, currentCol, path, visited, depth + 1)) {
+Recursive(allocation, startRow, startCol, i, currentCol, path, visited, depth + 1)) {
                     return true;
                 }
                 path.remove(path.size() - 1);
