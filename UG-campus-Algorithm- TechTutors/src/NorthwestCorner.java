@@ -1,6 +1,4 @@
-tationResult {
-        public int[][] allocation;
-        public int totalCost;
+talCost;
         public boolean isOptimal;
         
         public TransportationResult(int[][] allocation, int totalCost, boolean isOptimal) {
