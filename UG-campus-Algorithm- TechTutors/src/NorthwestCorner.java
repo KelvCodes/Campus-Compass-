@@ -1,6 +1,5 @@
 i++) {
-            for (int j y[i] > 0 && remainingDemand[j] > 0) {
-                    int quantity = Math.min(remainingSupply[i], remainingDemand[j]);
+            for (int j y[i] > Math.min(remainingSupply[i], remainingDemand[j]);
                     allocation[i][j] = quantity;
                     totalCost += quantity * costs[i][j];
                     
