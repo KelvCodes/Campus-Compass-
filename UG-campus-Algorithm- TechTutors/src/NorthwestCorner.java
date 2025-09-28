@@ -1,8 +1,4 @@
-artRow, startCol, path, visited, 0);
-        
-        return path;
-    }
-    
+
     private static boolean findPathRecursive(int[][] allocation, int startRow, int startCol, 
         int currentRow, int currentCol, List<Integer> path, 
         boolean[][] visited, int depth) {
