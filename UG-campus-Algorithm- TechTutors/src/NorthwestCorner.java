@@ -1,4 +1,4 @@
- public static class TransportationResult {
+tationResult {
         public int[][] allocation;
         public int totalCost;
         public boolean isOptimal;
