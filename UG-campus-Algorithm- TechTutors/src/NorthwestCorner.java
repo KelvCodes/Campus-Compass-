@@ -1,8 +1,4 @@
-length;
-        
-        List<Integer> path = findClosedPath(allocation, row, col);
-        if (path.size() < 4) {
-            return 0;
+
         }
         
         int cost = 0;
