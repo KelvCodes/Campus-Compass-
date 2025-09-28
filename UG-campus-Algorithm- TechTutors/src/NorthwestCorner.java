@@ -1,7 +1,4 @@
-l;
-        
-        = totalCost;
-            this.isOptimal = isOptimal;
+al = isOptimal;
         }
     }
     
