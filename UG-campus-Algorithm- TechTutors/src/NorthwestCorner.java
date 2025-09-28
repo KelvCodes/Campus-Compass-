@@ -1,4 +1,4 @@
-al ic TransportationResult northwestCornerMethod(int[] supply, int[] demand, int[][] costs) {
+esult northwestCornerMethod(int[] supply, int[] demand, int[][] costs) {
         int nRows = supply.length;
         int nCols = demand.length;
         
