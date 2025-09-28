@@ -1,6 +1,4 @@
-
-        boolean[][] visited, int depth) {
-        if (depth > 0 && currentRow == startRow && currentCol == startCol) {
+entRow == startRow && currentCol == startCol) {
             return true;
         }
         
