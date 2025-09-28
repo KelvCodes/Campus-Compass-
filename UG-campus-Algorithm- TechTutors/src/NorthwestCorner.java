@@ -1,7 +1,4 @@
-i++) {
-            
-                    remainingSupply[i] -= quantity;
-                    remainingDemand[j] -= quantity;
+[j] -= quantity;
                 }
             }
         }
