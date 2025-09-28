@@ -1,7 +1,6 @@
 l;
         
-        public TransportationResult(int[][] allocation, int totalCost, boolean isOptimal) {
-            this.allocation = allocation;
+        public TransportationResult(int[][] allocation, int ation;
             this.totalCost = totalCost;
             this.isOptimal = isOptimal;
         }
