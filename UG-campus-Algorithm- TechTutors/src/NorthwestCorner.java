@@ -1,5 +1,4 @@
 
-    private nt currentCol, List<Integer> path, 
         boolean[][] visited, int depth) {
         if (depth > 0 && currentRow == startRow && currentCol == startCol) {
             return true;
