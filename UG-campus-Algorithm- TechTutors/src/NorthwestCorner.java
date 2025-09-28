@@ -1,4 +1,4 @@
-t[][] allocation, int[][] costs, int[] ;
+sts, int[] ;
         int nCols = demand.length;
         
         for (int i = 0; i < nRows; i++) {
