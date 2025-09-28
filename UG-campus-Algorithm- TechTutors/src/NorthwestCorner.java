@@ -1,13 +1,6 @@
 ath.size() - 1);
                 path.remove(path.size() - 1);
-            }
-        }
-        
-        for (int j = 0; j < nCols; j++) {
-            if (allocation[currentRow][j] > 0 && !visited[currentRow][j]) {
-                path.add(currentRow);
-                path.add(j);
-                if (findPathRecursive(allocation, startRow, startCol, currentRow, j, path, visited, depth + 1)) {
+(findPathRecursive(allocation, startRow, startCol, currentRow, j, path, visited, depth + 1)) {
                     return true;
                 }
                 path.remove(path.size() - 1);
