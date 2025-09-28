@@ -1,6 +1,4 @@
-0;
-        
-        for (int i = 0; i < nRows; i++) {
+i++) {
             for (int j = 0; j < nCols; j++) {
                 if (remainingSupply[i] > 0 && remainingDemand[j] > 0) {
                     int quantity = Math.min(remainingSupply[i], remainingDemand[j]);
