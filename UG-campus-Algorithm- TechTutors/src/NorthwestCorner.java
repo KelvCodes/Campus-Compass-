@@ -1,8 +1,4 @@
-
-        
-        visited[currentRow][currentCol] = true;
-        
-        for (int i = 0; i < nRows; i++) {
+< nRows; i++) {
             if (allocation[i][currentCol] > 0 && !visited[i][currentCol]) {
                 path.add(i);
                 path.add(currentCol);
