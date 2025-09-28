@@ -1,5 +1,4 @@
-ean checkOptimality(int[][] allocation, int[][] costs, int[] supply, int[] demand) {
-        int nRows = supply.length;
+ean checkOptimality(int[][] allocation, int[][] costs, int[] ;
         int nCols = demand.length;
         
         for (int i = 0; i < nRows; i++) {
