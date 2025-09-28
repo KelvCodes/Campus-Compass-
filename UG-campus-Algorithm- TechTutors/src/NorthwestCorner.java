@@ -1,6 +1,4 @@
-n[0].length;
-        
-        if (depth == 0) {
+
             path.add(currentRow);
             path.add(currentCol);
         }
