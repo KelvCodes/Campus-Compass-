@@ -1,8 +1,4 @@
-
-
-public class NorthwestCorner {
-    
-    public static class TransportationResult {
+ public static class TransportationResult {
         public int[][] allocation;
         public int totalCost;
         public boolean isOptimal;
