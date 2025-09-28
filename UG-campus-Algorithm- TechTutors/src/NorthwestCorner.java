@@ -1,8 +1,4 @@
-
-        return true;
-    }
-    
-    private static int calculateOpportunityCost(int[][] allocation, int[][] costs, int row, int col) {
+nt calculateOpportunityCost(int[][] allocation, int[][] costs, int row, int col) {
         int nRows = allocation.length;
         int nCols = allocation[0].length;
         
