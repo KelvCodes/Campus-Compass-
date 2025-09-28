@@ -1,5 +1,4 @@
-esult northwestCornerMethod(int[] supply, int[] demand, int[][] costs) {
-        int nRows = supply.length;
+esult northwestCornerMethod(int[] supply, ength;
         int nCols = demand.length;
         
         int[][] allocation = new int[nRows][nCols];
