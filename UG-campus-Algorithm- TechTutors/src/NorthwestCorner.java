@@ -1,7 +1,4 @@
-length;
-        
-        ion[i][j] == 0) < 0) {
-                        return false;
+lse;
                     }
                 }
             }
