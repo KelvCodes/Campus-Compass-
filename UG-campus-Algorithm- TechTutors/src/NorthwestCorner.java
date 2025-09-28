@@ -1,7 +1,6 @@
 length;
         
-        for (int i = 0; i < nRows; i++) {
-            for (int j = 0; j < nCols; j++) {
+        for (int i = 0; ; j < nCols; j++) {
                 if (allocation[i][j] == 0) {
                     int opportunityCost = calculateOpportunityCost(allocation, costs, i, j);
                     if (opportunityCost < 0) {
