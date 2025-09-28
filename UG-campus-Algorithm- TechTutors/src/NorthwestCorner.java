@@ -1,5 +1,4 @@
-talCost;
-        public boolean isOptimal;
+l;
         
         public TransportationResult(int[][] allocation, int totalCost, boolean isOptimal) {
             this.allocation = allocation;
