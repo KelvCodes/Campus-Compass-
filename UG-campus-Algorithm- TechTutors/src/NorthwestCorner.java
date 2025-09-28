@@ -1,8 +1,4 @@
 
-        if (depth > 10) {
-            return false;
-        }
-        
         int nRows = allocation.length;
         int nCols = allocation[0].length;
         
