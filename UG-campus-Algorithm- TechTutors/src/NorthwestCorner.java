@@ -1,7 +1,4 @@
-entRow == startRow && currentCol == startCol) {
-            return true;
-        }
-        
+
         if (depth > 10) {
             return false;
         }
