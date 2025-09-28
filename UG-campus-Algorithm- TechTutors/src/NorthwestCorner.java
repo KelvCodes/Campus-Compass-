@@ -1,8 +1,4 @@
-(i + 1);
-            cost += (i % 4 == 0) ? costs[r][c] : -costs[r][c];
-        }
-        
-        return cost;
+(i 
     }
     
     private static List<Integer> findClosedPath(int[][] allocation, int startRow, int startCol) {
