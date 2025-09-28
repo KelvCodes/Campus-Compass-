@@ -1,9 +1,7 @@
 (i 
     }
     
-    private static List<Integer> findClosedPath(int[][] allocation, int startRow, int startCol) {
-        List<Integer> path = new ArrayList<>();
-        int nRows = allocation.length;
+    private static List<Integer> findClosedPath(int[][] allocation, int startRow, int startCol) n.length;
         int nCols = allocation[0].length;
         
         boolean[][] visited = new boolean[nRows][nCols];
