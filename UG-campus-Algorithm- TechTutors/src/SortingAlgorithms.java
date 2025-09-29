@@ -1,10 +1,6 @@
 
 
-    }
-    
-        routes.sort((r1, r2) -> Double.compare(r1.time, r2.time));
-    }
-    
+
     public static void sortByAlgorithm(List<Route> routes) {
         routes.sort((r1, r2) -> r1.algorithm.compareTo(r2.algorithm));
     }
