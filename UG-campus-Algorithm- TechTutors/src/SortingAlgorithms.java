@@ -1,5 +1,4 @@
 
-        public double distance;
         public double time;
         public String algorithm;
         
