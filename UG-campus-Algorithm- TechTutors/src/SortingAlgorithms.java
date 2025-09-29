@@ -1,5 +1,4 @@
-
-        double pivot = routes.get(high).distance;
+routes.get(high).distance;
         int i = low - 1;
         
         for (int j = low; j < high; j++) {
