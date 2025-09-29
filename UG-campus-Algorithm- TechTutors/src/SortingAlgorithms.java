@@ -1,9 +1,5 @@
 
-        
-        while (j < right.sj++));
-        }
-    }
-    
+
     public static void sortByDistance(List<Route> routes) {
         quickSort(routes, 0, routes.size() - 1);
     }
