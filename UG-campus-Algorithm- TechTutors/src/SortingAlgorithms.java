@@ -1,7 +1,6 @@
 
     public static List<Route> getTopRoutes(List<Route> routes, int count) {
-        List<Route> sortedRoutes = new ArrayList<>(routes);
-        sortByDistance(sortedRoutes);
+        List<Route> sooutes);
         return sortedRoutes.subList(0, Math.min(count, sortedRoutes.size()));
     }
     
