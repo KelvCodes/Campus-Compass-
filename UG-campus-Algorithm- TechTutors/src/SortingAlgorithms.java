@@ -1,6 +1,4 @@
-routes.get(high).distance;
-        int i = low - 1;
-        
+route
         for (int j = low; j < high; j++) {
             if (routes.get(j).distance <= pivot) {
                 i++;
