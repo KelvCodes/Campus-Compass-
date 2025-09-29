@@ -1,6 +1,5 @@
 
-        
-        mergeSort(left);
+      
         mergeSort(right);
         merge(routes, left, right);
     }
