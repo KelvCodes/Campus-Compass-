@@ -1,5 +1,4 @@
 
-            this.time = time;
             this.algorithm = algorithm;
         }
         
