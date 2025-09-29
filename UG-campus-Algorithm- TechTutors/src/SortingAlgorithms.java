@@ -1,6 +1,4 @@
 
-    
-    private static int partition(List<Route> routes, int low, int high) {
         double pivot = routes.get(high).distance;
         int i = low - 1;
         
