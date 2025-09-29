@@ -1,5 +1,4 @@
-rk(List<Route> routes, String landmark) {
-        List<Route> filtered = new ArrayList<>();
+rk(List<Route> route();
         for (Route route : routes) {
             for (String location : route.path) {
                 if (location.toLowerCase().contains(landmark.toLowerCase())) {
