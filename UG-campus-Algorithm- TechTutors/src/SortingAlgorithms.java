@@ -1,6 +1,4 @@
 
-        Collections.swap(routes, i + 1, high);
- static void mergeSort(List<Route> routes) {
         if (routes.size() <= 1) {
             return;
         }
