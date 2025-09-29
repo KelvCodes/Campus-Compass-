@@ -1,8 +1,4 @@
 
-                Collections.swap(routes, i, j);
-            }
-        }
-        
         Collections.swap(routes, i + 1, high);
         return i + 1;
     }
