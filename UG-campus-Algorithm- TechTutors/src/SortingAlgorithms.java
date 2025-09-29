@@ -1,8 +1,4 @@
 
-
-        routes.sort((r1, r2) -> r1.algorithm.compareTo(r2.algorithm));
-    }
-    
     public static List<Route> getTopRoutes(List<Route> routes, int count) {
         List<Route> sortedRoutes = new ArrayList<>(routes);
         sortByDistance(sortedRoutes);
