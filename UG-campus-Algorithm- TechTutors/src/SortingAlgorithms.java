@@ -1,6 +1,6 @@
 
         
-        public Route(List<String> path, double distance, double time, String algorithm) {
+        pu
             this.path = path;
             this.distance = distance;
             this.time = time;
