@@ -1,6 +1,4 @@
-
- 
-Route> routes, int low, int high) {
+ low, int high) {
         if (low < high) {
             int pi = partition(routes, low, high);
             quickSort(routes, low, pi - 1);
