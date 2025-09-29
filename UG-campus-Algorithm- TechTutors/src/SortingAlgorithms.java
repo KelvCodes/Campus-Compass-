@@ -1,6 +1,4 @@
-ickSort(routes, pi + 1, high);
-        }
-    }
+
     
     private static int partition(List<Route> routes, int low, int high) {
         double pivot = routes.get(high).distance;
