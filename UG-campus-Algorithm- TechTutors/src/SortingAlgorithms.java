@@ -1,6 +1,4 @@
 
-            if (routes.get(j).distance <= pivot) {
-                i++;
                 Collections.swap(routes, i, j);
             }
         }
