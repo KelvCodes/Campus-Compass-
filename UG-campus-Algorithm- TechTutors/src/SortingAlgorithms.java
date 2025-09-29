@@ -1,6 +1,4 @@
-
-        e) {
-                routes.set(k++, left.get(i++));
+set(k++, left.get(i++));
             } else {
                 routes.set(k++, right.get(j++));
             }
