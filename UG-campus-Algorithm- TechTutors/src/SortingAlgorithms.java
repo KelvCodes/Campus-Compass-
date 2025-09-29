@@ -1,7 +1,4 @@
 
-      
-        mergeSort(right);
-        merge(routes, left, right);
     }
     
     private static void merge(List<Route> routes, List<Route> left, List<Route> right) {
