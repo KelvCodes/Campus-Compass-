@@ -1,6 +1,5 @@
 
 
-    public static class Route {
         public List<String> path;
         public double distance;
         public double time;
