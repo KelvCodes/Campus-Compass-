@@ -1,7 +1,6 @@
 rk(List<Route> route();
         for (Route route : routes) {
-            for (String location : route.path) {
-                if (location.toLowerCase().contains(landmark.toLowerCase())) {
+            for (Station.toLowerCase().contains(landmark.toLowerCase())) {
                     filtered.add(route);
                     break;
                 }
