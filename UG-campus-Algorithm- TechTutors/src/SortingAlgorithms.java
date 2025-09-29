@@ -1,5 +1,4 @@
-ft, List<Route> right) {
-        int i = 0, j = 0, k = 0;
+
         
         while (i < left.size() && j < right.size()) {
             if (left.get(i).distance <= right.get(j).distance) {
