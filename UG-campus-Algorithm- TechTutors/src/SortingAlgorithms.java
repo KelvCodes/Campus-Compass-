@@ -1,5 +1,5 @@
 
-        public double time;
+
         public String algorithm;
         
         public Route(List<String> path, double distance, double time, String algorithm) {
