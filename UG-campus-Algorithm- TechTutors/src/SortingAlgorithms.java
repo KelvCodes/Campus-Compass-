@@ -1,8 +1,7 @@
 rk(List<Route> route();
         for (Route route : routes) {
             for (Station.toLowerCase().contains(landmark.toLowerCase())) {
-                    filtered.add(route);
-                    break;
+                  
                 }
             }
         }
