@@ -1,8 +1,6 @@
 
  
-     
-        public Strings (%.2fm, %.1fs)", String.join(" -> ", path), distance, time);
-        }
+
     }
     
     public static void quickSort(List<Route> routes, int low, int high) {
