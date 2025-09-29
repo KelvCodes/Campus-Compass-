@@ -1,6 +1,4 @@
 
-            routes.set(k++, left.get(i++));
-        }
         
         while (j < right.size()) {
             routes.set(k++, right.get(j++));
