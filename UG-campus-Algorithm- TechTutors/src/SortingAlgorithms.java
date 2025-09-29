@@ -1,5 +1,4 @@
 
-        List<Route> right = new ArrayList<>(routes.subList(mid, routes.size()));
         
         mergeSort(left);
         mergeSort(right);
