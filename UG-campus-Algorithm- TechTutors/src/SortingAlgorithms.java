@@ -1,7 +1,5 @@
 
-        
-        while (i < left.size() && j < right.size()) {
-            if (left.get(i).distance <= right.get(j).distance) {
+        e) {
                 routes.set(k++, left.get(i++));
             } else {
                 routes.set(k++, right.get(j++));
