@@ -1,8 +1,7 @@
 
  
      
-        public String toString() {
-            return String.format("%s (%.2fm, %.1fs)", String.join(" -> ", path), distance, time);
+        public Strings (%.2fm, %.1fs)", String.join(" -> ", path), distance, time);
         }
     }
     
