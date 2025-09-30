@@ -1,9 +1,7 @@
 
         analysis.optimalRoute = SortingAlgorithms.findOptimalRoute(analysis.routes);
         analysis.landmarks = landmarks;
-        
-        return analysis;
-    }
+    
     
     private static double extractDistance(String pathString) {
         try {
