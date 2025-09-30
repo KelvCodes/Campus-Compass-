@@ -1,9 +1,6 @@
 
         if (!aStarResult.path.isEmpty()) {
-            analysis.routes.addithms.Route(aStarResult.path, aStarResult.totalDistance, aStarResult.totalDistance/2, "A*"));
-        }
-        
-        if (!landmarks.isEmpty()) {
+  ndmarks.isEmpty()) {
             AStarSearch.AStarResult landmarkResult = AStarSearch.findPathWithLandmarks(graph, start, end, landmarks);
             if (!landmarkResult.path.isEmpty()) {
                 analysis.routes.add(new SortingAlgorithms.Route(landmarkResult.path, landmarkResult.totalDistance, landmarkResult.totalDistance/2, "Landmark-A*"));
