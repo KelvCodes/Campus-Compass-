@@ -1,5 +1,4 @@
-
-        public Map<String, Double> algorithmPerformance;
+ble> algorithmPerformance;
         public List<String> landmarks;
         public double trafficFactor;
         
