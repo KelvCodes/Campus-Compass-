@@ -1,5 +1,4 @@
 
-            double dijkstraDistance = extractDistance(dijkstraPath);
             analysis.routes.add(new SortingAlgorithms.Route(dijkstraPathList, dijkstraDistance, dijkstraDistance/2, "Dijkstra"));
         }
         
