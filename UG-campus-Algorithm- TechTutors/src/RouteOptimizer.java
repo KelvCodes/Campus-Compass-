@@ -1,11 +1,7 @@
 
 Part = parts[1].split("Time")[0].trim();
         
-    
-    public static RouteAnalysis findMultipleRouteOptions(Graph graph, Nodes start, Nodes end, int numOptions) {
-        RouteAnalysis analysis = new RouteAnalysis();
-        
-        List<AStarSearch.AStarResult> multiplePaths = AStarSearch.findMultiplePaths(graph, start, end, numOptions);
+h.AStarResult> multiplePaths = AStarSearch.findMultiplePaths(graph, start, end, numOptions);
         
         for (AStarSearch.AStarResult result : multiplePaths) {
             analysis.routes.add(new SortingAlgorithms.Route(result.path, result.totalDistance, result.totalDistance/2, "A* Multiple"));
