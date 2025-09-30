@@ -1,5 +1,4 @@
 
-        startTime = System.currentTimeMillis();
         AStarSearch.AStarResult aStarResult = AStarSearch.aStarSearch(graph, start, end);
         long aStarTime = System.currentTimeMillis() - startTime;
         
