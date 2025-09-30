@@ -1,5 +1,4 @@
 
-            this.routes = new ArrayList<>();
             this.algorithmPerformance = new HashMap<>();
             this.landmarks = new ArrayList<>();
             this.trafficFactor = 1.0;
