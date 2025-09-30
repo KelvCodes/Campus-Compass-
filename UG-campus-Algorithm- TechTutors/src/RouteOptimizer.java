@@ -1,5 +1,4 @@
-e(dijkstraPathList, dijkstraDistance, dijkstraDistance/2, "Dijkstra"));
-        }
+
         
         if (!floydResult.path.isEmpty()) {
             double floydDistance = floydResult.totalDistance;
