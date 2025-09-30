@@ -1,4 +1,4 @@
-ble> algorithmPerformance;
+
         public List<String> landmarks;
         public double trafficFactor;
         
