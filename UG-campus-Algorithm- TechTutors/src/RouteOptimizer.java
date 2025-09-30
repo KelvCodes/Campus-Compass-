@@ -1,6 +1,5 @@
 ;
-        
-        long startTime = System.currentTimeMillis();
+   System.currentTimeMillis();
         
         String dijkstraPath = graph.shortestPath(start, end);
         long dijkstraTime = System.currentTimeMillis() - startTime;
