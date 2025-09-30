@@ -1,7 +1,4 @@
 
-            this.trafficFactor = 1.0;
-        }
-    }
     
     public static RouteAnalysis findOptimalRoutes(Graph graph, Nodes start, Nodes end, List<String> landmarks) {
         RouteAnalysis analysis = new RouteAnalysis();
