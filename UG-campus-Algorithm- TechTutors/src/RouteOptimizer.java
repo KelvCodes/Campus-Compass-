@@ -1,5 +1,5 @@
 .totalDistance;
-            analysis.routes.add(new SortingAlgorithms.Route(floydResult.path, floydDistance, floydDistance/2, "Floyd-Warshall"));
+            analysis.routes.aorithms.Route(floydResult.path, floydDistance, floydDistance/2, "Floyd-Warshall"));
         }
         
         if (!aStarResult.path.isEmpty()) {
