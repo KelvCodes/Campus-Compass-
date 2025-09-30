@@ -1,6 +1,5 @@
 
-        
-            String[] dijkstraParts = dijkstraPath.split("----");
+
             List<String> dijkstraPathList = new ArrayList<>();
             for (String part : dijkstraParts) {
                 dijkstraPathList.add(part.trim());
