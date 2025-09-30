@@ -1,5 +1,5 @@
 
-        analysis.algorithmPerformance.put("Floyd-Warshall", (double) floydTime);
+        
         analysis.algorithmPerformance.put("A*", (double) aStarTime);
         
         if (!dijkstraPath.contains("There isn't a path")) {
