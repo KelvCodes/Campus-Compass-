@@ -1,10 +1,6 @@
 
 Part = parts[1].split("Time")[0].trim();
-                return Double.parseDouble(distancePart);
-    
-        }
-        return 0.0;
-    }
+        
     
     public static RouteAnalysis findMultipleRouteOptions(Graph graph, Nodes start, Nodes end, int numOptions) {
         RouteAnalysis analysis = new RouteAnalysis();
