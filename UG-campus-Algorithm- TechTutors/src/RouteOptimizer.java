@@ -1,4 +1,4 @@
-Analysis findOptimalRoutes(Graph graph, Nodes start, Nodes end, List<String> landmarks) {
+ptimalRoutes(Graph graph, Nodes start, Nodes end, List<String> landmarks) {
         RouteAnalysis analysis = new RouteAnalysis();
         
         long startTime = System.currentTimeMillis();
