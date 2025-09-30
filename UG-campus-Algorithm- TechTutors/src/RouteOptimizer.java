@@ -1,9 +1,7 @@
 
 Part = parts[1].split("Time")[0].trim();
                 return Double.parseDouble(distancePart);
-            }
-        } catch (Exception e) {
-            return 0.0;
+    
         }
         return 0.0;
     }
