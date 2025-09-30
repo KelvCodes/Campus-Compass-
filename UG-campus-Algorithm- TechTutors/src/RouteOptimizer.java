@@ -1,5 +1,4 @@
 
-        public List<String> landmarks;
         public double trafficFactor;
         
         public RouteAnalysis() {
