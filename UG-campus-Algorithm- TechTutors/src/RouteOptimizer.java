@@ -1,5 +1,4 @@
 
-        public SortingAlgorithms.Route optimalRoute;
         public Map<String, Double> algorithmPerformance;
         public List<String> landmarks;
         public double trafficFactor;
