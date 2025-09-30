@@ -1,11 +1,6 @@
 
 Part = parts[1].split("Time")[0].trim();
-        
-h.AStarResult> multiplePaths = AStarSearch.findMultiplePaths(graph, start, end, numOptions);
-        
-        for (AStarSearch.AStarResult result : multiplePaths) {
-            analysis.routes.add(new SortingAlgorithms.Route(result.path, result.totalDistance, result.totalDistance/2, "A* Multiple"));
-        }
+
         
         SortingAlgorithms.sortByDistance(analysis.routes);
         analysis.optimalRoute = analysis.routes.isEmpty() ? null : analysis.routes.get(0);
