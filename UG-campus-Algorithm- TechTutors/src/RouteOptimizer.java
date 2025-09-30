@@ -1,4 +1,4 @@
-t = AStarSearch.aStarSearch(graph, start, end);
+t = 
         long aStarTime = System.currentTimeMillis() - startTime;
         
         analysis.algorithmPerformance.put("Dijkstra", (double) dijkstraTime);
