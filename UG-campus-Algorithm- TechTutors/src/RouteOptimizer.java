@@ -1,5 +1,4 @@
-
-            analysis.routes.add(new SortingAlgorithms.Route(dijkstraPathList, dijkstraDistance, dijkstraDistance/2, "Dijkstra"));
+e(dijkstraPathList, dijkstraDistance, dijkstraDistance/2, "Dijkstra"));
         }
         
         if (!floydResult.path.isEmpty()) {
