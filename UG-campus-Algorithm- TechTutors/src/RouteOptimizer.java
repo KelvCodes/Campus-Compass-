@@ -1,5 +1,4 @@
-ptimalRoutes(Graph graph, Nodes start, Nodes end, List<String> landmarks) {
-        RouteAnalysis analysis = new RouteAnalysis();
+ptimalRouteysis analysis = new RouteAnalysis();
         
         long startTime = System.currentTimeMillis();
         
