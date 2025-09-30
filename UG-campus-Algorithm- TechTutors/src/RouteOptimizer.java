@@ -1,8 +1,5 @@
 
-    
-    priing[vate static double extractDistance(String pathString) {
-      ts.length > 1) {
-                String distancePart = parts[1].split("Time")[0].trim();
+Part = parts[1].split("Time")[0].trim();
                 return Double.parseDouble(distancePart);
             }
         } catch (Exception e) {
