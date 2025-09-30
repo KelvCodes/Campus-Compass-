@@ -1,16 +1,6 @@
 
 Part = parts[1].split("Time")[0].trim();
-
-        
-        SortingAlgorithms.sortByDistance(analysis.routes);
-        analysis.optimalRoute = analysis.routes.isEmpty() ? null : analysis.routes.get(0);
-        
-        return analysis;
-    }
-    
-    public static RouteAnalysis optimizeForTraffic(Graph graph, Nodes start, Nodes end, double trafficFactor) {
-        RouteAnalysis analysis = findOptimalRoutes(graph, start, end, new ArrayList<>());
-        analysis.trafficFactor = trafficFactor;
+ = trafficFactor;
         
         for (SortingAlgorithms.Route route : analysis.routes) {
             route.time *= trafficFactor;
