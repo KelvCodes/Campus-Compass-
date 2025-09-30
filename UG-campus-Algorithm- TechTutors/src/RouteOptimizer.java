@@ -1,6 +1,5 @@
 
-        public double trafficFactor;
-        
+        public double
         public RouteAnalysis() {
             this.routes = new ArrayList<>();
             this.algorithmPerformance = new HashMap<>();
