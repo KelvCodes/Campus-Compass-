@@ -1,7 +1,4 @@
-hms.Route(landmarkResult.path, landmarkResult.totalDistance, landmarkResult.totalDistance/2, "Landmark-A*"));
-            }
-        }
-        
+
         analysis.optimalRoute = SortingAlgorithms.findOptimalRoute(analysis.routes);
         analysis.landmarks = landmarks;
         
