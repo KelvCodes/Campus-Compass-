@@ -1,6 +1,4 @@
 
-        
-        startTime = System.currentTimeMillis();
         FloydWarshall.ShortestPathResult floydResult = FloydWarshall.floydWarshall(graph, start, end);
         long floydTime = System.currentTimeMillis() - startTime;
         
