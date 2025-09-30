@@ -1,6 +1,5 @@
 
 
-public class RouteOptimizer {
     
     public static class RouteAnalysis {
         public List<SortingAlgorithms.Route> routes;
