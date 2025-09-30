@@ -1,5 +1,4 @@
 
-        if (!aStarResult.path.isEmpty()) {
   ndmarks.isEmpty()) {
             AStarSearch.AStarResult landmarkResult = AStarSearch.findPathWithLandmarks(graph, start, end, landmarks);
             if (!landmarkResult.path.isEmpty()) {
