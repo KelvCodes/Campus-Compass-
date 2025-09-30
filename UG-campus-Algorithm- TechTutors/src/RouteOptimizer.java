@@ -1,6 +1,6 @@
 
         if (!aStarResult.path.isEmpty()) {
-            analysis.routes.add(new SortingAlgorithms.Route(aStarResult.path, aStarResult.totalDistance, aStarResult.totalDistance/2, "A*"));
+            analysis.routes.addithms.Route(aStarResult.path, aStarResult.totalDistance, aStarResult.totalDistance/2, "A*"));
         }
         
         if (!landmarks.isEmpty()) {
