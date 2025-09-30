@@ -1,7 +1,4 @@
 
-
-    
-    public static class RouteAnalysis {
         public List<SortingAlgorithms.Route> routes;
         public SortingAlgorithms.Route optimalRoute;
         public Map<String, Double> algorithmPerformance;
