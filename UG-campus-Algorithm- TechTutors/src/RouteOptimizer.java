@@ -1,5 +1,4 @@
-t = 
-        long aStarTime = System.currentTimeMillis() - startTime;
+
         
         analysis.algorithmPerformance.put("Dijkstra", (double) dijkstraTime);
         analysis.algorithmPerformance.put("Floyd-Warshall", (double) floydTime);
