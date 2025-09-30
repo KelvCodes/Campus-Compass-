@@ -1,8 +1,5 @@
 
         
-        analysis.algorithmPerformance.put("A*", (double) aStarTime);
-        
-        if (!dijkstraPath.contains("There isn't a path")) {
             String[] dijkstraParts = dijkstraPath.split("----");
             List<String> dijkstraPathList = new ArrayList<>();
             for (String part : dijkstraParts) {
