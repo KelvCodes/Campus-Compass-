@@ -1,7 +1,5 @@
 
 
-                result[r][c] = quantity;
-                supplyLeft -= quantity;
 
                 totalCost += quantity * costs[r][c];
             }
