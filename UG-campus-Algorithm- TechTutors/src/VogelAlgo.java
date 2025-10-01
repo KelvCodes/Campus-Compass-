@@ -1,6 +1,4 @@
 
-
-                int quantity = Math.min(demand[c], supply[r]);
                 demand[c] -= quantity;
                 if (demand[c] == 0)
                     colDone[c] = true;
