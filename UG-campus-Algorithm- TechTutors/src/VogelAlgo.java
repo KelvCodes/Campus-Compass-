@@ -1,6 +1,4 @@
 
-
-        static boolean[] colDone = new boolean[nCols];
         static int[][] result = new int[nRows][nCols];
 
         static ExecutorService es = Executors.newFixedThreadPool(2);
