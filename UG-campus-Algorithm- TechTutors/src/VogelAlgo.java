@@ -1,5 +1,4 @@
 
-            int minP = -1;
             for (int i = 0; i < len; i++) {
                 if (isRow ? colDone[i] : rowDone[i])
                     continue;
