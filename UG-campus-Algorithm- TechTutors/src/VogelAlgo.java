@@ -1,5 +1,4 @@
 
-            int supplyLeft = stream(supply).sum();
             int totalCost = 0;
 
             while (supplyLeft > 0) {
