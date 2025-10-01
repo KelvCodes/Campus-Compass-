@@ -1,9 +1,5 @@
 isRow ? costs[j][i] : costs[i][j];
-                if (c < min1) {
-              
-                } else if (c < min2)
-                    min2 = c;
-            }
+  
             return new int[]{min2 - min1, min1, minP};
         }
 
