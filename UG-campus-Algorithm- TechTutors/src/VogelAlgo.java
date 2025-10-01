@@ -1,7 +1,4 @@
-
-
-n, boolean isRow) {
-            int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
+ = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
             int minP = -1;
             for (int i = 0; i < len; i++) {
                 if (isRow ? colDone[i] : rowDone[i])
