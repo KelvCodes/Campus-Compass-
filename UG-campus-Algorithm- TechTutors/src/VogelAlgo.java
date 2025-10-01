@@ -1,5 +1,4 @@
 
-            Future<int[]> f1 = es.submit(() -> maxPenalty(nRows, nCols, true));
             Future<int[]> f2 = es.submit(() -> maxPenalty(nCols, nRows, false));
 
             int[] res1 = f1.get();
