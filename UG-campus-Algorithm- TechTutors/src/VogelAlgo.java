@@ -1,6 +1,4 @@
 
-                if (supply[r] == 0)
-                    rowDone[r] = true;
 
                 result[r][c] = quantity;
                 supplyLeft -= quantity;
