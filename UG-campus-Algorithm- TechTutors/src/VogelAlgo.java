@@ -1,7 +1,6 @@
 
 
-
-                totalCost += quantity * costs[r][c];
+ntity * costs[r][c];
             }
 
             stream(result).forEach(a -> System.out.println(Arrays.toString(a)));
