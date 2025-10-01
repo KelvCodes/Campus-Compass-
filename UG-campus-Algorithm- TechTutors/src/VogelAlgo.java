@@ -1,7 +1,6 @@
 
 
-                int[] cell = nextCell();
-                int r = cell[0];
+                int[] cell = n
                 int c = cell[1];
 
                 int quantity = Math.min(demand[c], supply[r]);
