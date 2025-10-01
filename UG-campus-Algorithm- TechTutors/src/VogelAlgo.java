@@ -1,8 +1,5 @@
 
 
-                int[] cell = n
-                int c = cell[1];
-
                 int quantity = Math.min(demand[c], supply[r]);
                 demand[c] -= quantity;
                 if (demand[c] == 0)
