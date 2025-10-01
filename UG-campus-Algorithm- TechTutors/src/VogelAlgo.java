@@ -1,8 +1,6 @@
 isRow ? costs[j][i] : costs[i][j];
                 if (c < min1) {
-                    min2 = min1;
-                    min1 = c;
-                    minP = i;
+              
                 } else if (c < min2)
                     min2 = c;
             }
