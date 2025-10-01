@@ -1,5 +1,4 @@
-;
-                    colDone[c] = true;
+
 
                 supply[r] -= quantity;
                 if (supply[r] == 0)
