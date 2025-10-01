@@ -1,6 +1,5 @@
 
-                int[] res = diff(i, len2, isRow);
-                if (res[0] > md) {
+                i
                     md = res[0];  // max diff
                     pm = i;       // pos of max diff
                     mc = res[1];  // min cost
