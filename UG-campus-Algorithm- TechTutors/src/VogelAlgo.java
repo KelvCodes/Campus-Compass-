@@ -1,5 +1,4 @@
 
-            if (res1[3] == res2[3])
                 return res1[2] < res2[2] ? res1 : res2;
 
             return (res1[3] > res2[3]) ? res2 : res1;
