@@ -1,7 +1,4 @@
-
-                return res1[2] < res2[2] ? res1 : res2;
-
-            return (res1[3] > res2[3]) ? res2 : res1;
+] > res2[3]) ? res2 : res1;
         }
 
         static int[] diff(int j, int len, boolean isRow) {
