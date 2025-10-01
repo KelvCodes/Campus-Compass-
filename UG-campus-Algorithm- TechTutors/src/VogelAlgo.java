@@ -1,5 +1,4 @@
 
-        final static int nCols = demand.length;
 
         static boolean[] rowDone = new boolean[nRows];
         static boolean[] colDone = new boolean[nCols];
