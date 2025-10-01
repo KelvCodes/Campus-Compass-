@@ -1,7 +1,5 @@
 
 
-public class VogelAlgo {
-
         final static int[] demand = {30, 20, 70, 30, 60};
         final static int[] supply = {50, 60, 50, 50};
         final static int[][] costs = {{16, 16, 13, 22, 17}, {14, 14, 13, 19, 15},
