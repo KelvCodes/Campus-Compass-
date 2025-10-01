@@ -1,6 +1,4 @@
 
-                {19, 19, 20, 23, 50}, {50, 12, 50, 15, 11}};
-
         final static int nRows = supply.length;
         final static int nCols = demand.length;
 
