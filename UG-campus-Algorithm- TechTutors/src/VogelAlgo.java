@@ -1,5 +1,4 @@
-] > res2[3]) ? res2 : res1;
-        }
+
 
         static int[] diff(int j, int len, boolean isRow) {
             int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
