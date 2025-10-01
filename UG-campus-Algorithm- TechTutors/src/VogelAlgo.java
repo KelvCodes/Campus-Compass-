@@ -1,5 +1,4 @@
 
-            int[] res1 = f1.get();
             int[] res2 = f2.get();
 
             if (res1[3] == res2[3])
