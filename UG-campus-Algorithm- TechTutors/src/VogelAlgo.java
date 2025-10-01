@@ -1,6 +1,4 @@
 
-            int[] res2 = f2.get();
-
             if (res1[3] == res2[3])
                 return res1[2] < res2[2] ? res1 : res2;
 
