@@ -1,4 +1,4 @@
-import static java.util.Arrays.stream;
+Arrays.stream;
 
 import java.util.Arrays;
 import java.util.concurrent.*;
