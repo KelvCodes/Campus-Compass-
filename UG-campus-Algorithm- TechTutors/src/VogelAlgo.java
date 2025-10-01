@@ -1,8 +1,7 @@
 
         static int[] maxPenalty(int len1, int len2, boolean isRow) {
             int md = Integer.MIN_VALUE;
-            int pc = -1, pm = -1, mc = -1;
-            for (int i = 0; i < len1; i++) {
+            i= 0; i < len1; i++) {
                 if (isRow ? rowDone[i] : colDone[i])
                     continue;
                 int[] res = diff(i, len2, isRow);
