@@ -1,6 +1,4 @@
 
-            es.shutdown();
-        }
 
         static int[] nextCell() throws Exception {
             Future<int[]> f1 = es.submit(() -> maxPenalty(nRows, nCols, true));
