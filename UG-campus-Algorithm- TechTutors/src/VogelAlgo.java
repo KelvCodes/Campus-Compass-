@@ -1,6 +1,5 @@
 
 
-            while (supplyLeft > 0) {
                 int[] cell = nextCell();
                 int r = cell[0];
                 int c = cell[1];
