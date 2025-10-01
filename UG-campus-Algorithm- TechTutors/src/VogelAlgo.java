@@ -1,7 +1,3 @@
-isRow ? costs[j][i] : costs[i][j];
-  
-            return new int[]{min2 - min1, min1, minP};
-        }
 
         static int[] maxPenalty(int len1, int len2, boolean isRow) {
             int md = Integer.MIN_VALUE;
