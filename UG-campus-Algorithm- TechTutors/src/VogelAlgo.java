@@ -1,7 +1,4 @@
 
-
-
-        public static void main(String[] args) throws Exception {
             int supplyLeft = stream(supply).sum();
             int totalCost = 0;
 
