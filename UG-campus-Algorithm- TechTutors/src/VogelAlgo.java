@@ -1,6 +1,6 @@
 
 
-        static int[] diff(int j, int len, boolean isRow) {
+n, boolean isRow) {
             int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
             int minP = -1;
             for (int i = 0; i < len; i++) {
