@@ -1,5 +1,4 @@
 
-        static int[][] result = new int[nRows][nCols];
 
         static ExecutorService es = Executors.newFixedThreadPool(2);
 
