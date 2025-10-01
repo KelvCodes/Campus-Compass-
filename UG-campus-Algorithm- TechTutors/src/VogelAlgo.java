@@ -1,5 +1,4 @@
 ;
-                if (demand[c] == 0)
                     colDone[c] = true;
 
                 supply[r] -= quantity;
