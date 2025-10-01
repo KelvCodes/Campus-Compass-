@@ -1,6 +1,4 @@
-
-            for (int i = 0; i < len; i++) {
-                if (isRow ? colDone[i] : rowDone[i])
+rowDone[i])
                     continue;
                 int c = isRow ? costs[j][i] : costs[i][j];
                 if (c < min1) {
