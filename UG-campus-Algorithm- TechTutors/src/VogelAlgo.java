@@ -1,6 +1,6 @@
 
 
-            stream(result).forEach(a -> System.out.println(Arrays.toString(a)));
+           -> System.out.println(Arrays.toString(a)));
             System.out.println("Total cost: " + totalCost);
 
             es.shutdown();
