@@ -1,6 +1,4 @@
 
-            System.out.println("Total cost: " + totalCost);
-
             es.shutdown();
         }
 
