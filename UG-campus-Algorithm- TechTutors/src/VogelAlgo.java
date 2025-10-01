@@ -1,5 +1,4 @@
 
-            int totalCost = 0;
 
             while (supplyLeft > 0) {
                 int[] cell = nextCell();
