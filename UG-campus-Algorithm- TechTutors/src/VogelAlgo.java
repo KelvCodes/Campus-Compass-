@@ -1,6 +1,5 @@
 
 
-        static boolean[] rowDone = new boolean[nRows];
         static boolean[] colDone = new boolean[nCols];
         static int[][] result = new int[nRows][nCols];
 
