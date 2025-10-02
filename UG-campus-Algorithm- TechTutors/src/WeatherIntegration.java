@@ -1,4 +1,4 @@
-c double temperature;
+
         public double humidity;
         public double windSpeed;
         public boolean isRaining;
