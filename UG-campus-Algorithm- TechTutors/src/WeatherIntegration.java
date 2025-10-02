@@ -1,6 +1,4 @@
-
-erCondition {
-        public String condition;
+c String condition;
         public double temperature;
         public double humidity;
         public double windSpeed;
