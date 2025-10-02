@@ -1,6 +1,5 @@
 
-
- class WeatherCondition {
+erCondition {
         public String condition;
         public double temperature;
         public double humidity;
