@@ -1,6 +1,4 @@
 
-        public double humidity;
-        public double windSpeed;
         public boolean isRaining;
         public double visibility;
         
