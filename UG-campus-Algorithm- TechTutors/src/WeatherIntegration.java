@@ -1,6 +1,5 @@
 
 
-public class WeatherIntegration {
     
     public static class WeatherCondition {
         public String condition;
