@@ -1,7 +1,6 @@
 
 
-    
-    public static class WeatherCondition {
+ class WeatherCondition {
         public String condition;
         public double temperature;
         public double humidity;
