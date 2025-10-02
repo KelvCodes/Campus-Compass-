@@ -1,5 +1,4 @@
-c String condition;
-        public double temperature;
+c double temperature;
         public double humidity;
         public double windSpeed;
         public boolean isRaining;
