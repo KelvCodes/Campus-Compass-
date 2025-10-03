@@ -1,10 +1,6 @@
 
             this.weatherAdjustedTime = baseTime;
-            this.recommendations = new ArrayList<>();
-        }
-    }
-    
-    private static Map<String, WeatherCondition> campusWeather = new HashMap<>();
+tring, WeatherCondition> campusWeather = new HashMap<>();
     
     static {
         initializeWeatherData();
