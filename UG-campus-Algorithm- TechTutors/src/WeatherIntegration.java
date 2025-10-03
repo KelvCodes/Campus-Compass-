@@ -1,6 +1,4 @@
-ocation;
-        }
-        
+
         double factor = 1.0;
         
         if (weather.isRaining) {
