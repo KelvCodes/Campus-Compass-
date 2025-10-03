@@ -1,5 +1,4 @@
 
-            this.temperature = temperature;
             this.humidity = humidity;
             this.windSpeed = windSpeed;
             this.isRaining = isRaining;
