@@ -1,5 +1,4 @@
-
-        campusWeather.put("Sarbah Park", new WeatherCondition("Partly Cloudy", 26.0, 68.0, 4.0, false, 7.0));
+, new WeatherCondition("Partly Cloudy", 26.0, 68.0, 4.0, false, 7.0));
         campusWeather.put("Banking Square", new WeatherCondition("Sunny", 28.0, 63.0, 3.0, false, 9.0));
     }
     
