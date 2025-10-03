@@ -1,7 +1,5 @@
 
-  (weather.isRaining) {
-            factor *= 1.3;
-        }
+  (
         
         if (weather.visibility < 5.0) {
             factor *= 1.2;
