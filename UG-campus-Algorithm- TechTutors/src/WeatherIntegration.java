@@ -1,7 +1,6 @@
 
     pu
-        public double baseTime;
-        public double weatherAdjustedTime;
+        public douedTime;
         public String weatherImpact;
         public List<String> recommendations;
         
