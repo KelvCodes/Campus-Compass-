@@ -1,7 +1,5 @@
 
     pu
-erAdjustedRoute(List<String> path, double distance, double baseTime) {
-            this.path = path;
             this.distance = distance;
             this.baseTime = baseTime;
             this.weatherAdjustedTime = baseTime;
