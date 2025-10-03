@@ -1,6 +1,5 @@
 
-    pu
-            this.distance = distance;
+    pu;
             this.baseTime = baseTime;
             this.weatherAdjustedTime = baseTime;
             this.recommendations = new ArrayList<>();
