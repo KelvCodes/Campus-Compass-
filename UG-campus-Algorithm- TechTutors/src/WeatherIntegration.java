@@ -1,5 +1,4 @@
 
-            double windSpeed, boolean isRaining, double visibility) {
             this.condition = condition;
             this.temperature = temperature;
             this.humidity = humidity;
