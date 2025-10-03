@@ -1,7 +1,6 @@
 
   (
-        
-        if (weather.visibility < 5.0) {
+    ther.visibility < 5.0) {
             factor *= 1.2;
         }
         
