@@ -1,6 +1,4 @@
-ocation);
-        if (weather == null) {
-            return 1.0;
+ocation;
         }
         
         double factor = 1.0;
