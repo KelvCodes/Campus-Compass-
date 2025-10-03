@@ -1,7 +1,5 @@
 
-        double factor = 1.0;
-        
-        if (weather.isRaining) {
+  (weather.isRaining) {
             factor *= 1.3;
         }
         
