@@ -1,6 +1,6 @@
 
             this.humidity = humidity;
-            this.windSpeed = windSpeed;
+            this.windSpee
             this.isRaining = isRaining;
             this.visibility = visibility;
         }
