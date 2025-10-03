@@ -1,5 +1,4 @@
 
-            this.weatherAdjustedTime = baseTime;
 tring, WeatherCondition> campusWeather = new HashMap<>();
     
     static {
