@@ -1,7 +1,4 @@
-
-        campusWeather.put("Engineering School", new WeatherCondition("Sunny", 29.0, 60.0, 4.0, false, 10.0));
-        campusWeather.put("CS Department", new WeatherCondition("Sunny", 27.0, 62.0, 2.0, false, 9.0));
-        campusWeather.put("Bush Canteen", new WeatherCondition("Cloudy", 25.0, 75.0, 6.0, true, 6.0));
+ WeatherCondition("Cloudy", 25.0, 75.0, 6.0, true, 6.0));
         campusWeather.put("Night Market", new WeatherCondition("Rainy", 24.0, 80.0, 8.0, true, 4.0));
         campusWeather.put("Sarbah Park", new WeatherCondition("Partly Cloudy", 26.0, 68.0, 4.0, false, 7.0));
         campusWeather.put("Banking Square", new WeatherCondition("Sunny", 28.0, 63.0, 3.0, false, 9.0));
