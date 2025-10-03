@@ -1,5 +1,4 @@
-
-        campusWeather.put("Night Market", new WeatherCondition("Rainy", 24.0, 80.0, 8.0, true, 4.0));
+t("Night Market", new WeatherCondition("Rainy", 24.0, 80.0, 8.0, true, 4.0));
         campusWeather.put("Sarbah Park", new WeatherCondition("Partly Cloudy", 26.0, 68.0, 4.0, false, 7.0));
         campusWeather.put("Banking Square", new WeatherCondition("Sunny", 28.0, 63.0, 3.0, false, 9.0));
     }
