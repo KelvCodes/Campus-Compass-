@@ -1,6 +1,5 @@
 
-    publi
-        public double distance;
+    pu
         public double baseTime;
         public double weatherAdjustedTime;
         public String weatherImpact;
