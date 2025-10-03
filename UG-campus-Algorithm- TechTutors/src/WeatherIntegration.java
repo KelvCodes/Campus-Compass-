@@ -1,7 +1,6 @@
 
     pu
-        public douedTime;
-        public String weatherImpact;
+  eatherImpact;
         public List<String> recommendations;
         
         public WeatherAdjustedRoute(List<String> path, double distance, double baseTime) {
