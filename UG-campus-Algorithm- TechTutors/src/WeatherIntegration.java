@@ -1,6 +1,4 @@
-
-    public static double calculateWeatherFactor(String location) {
-        WeatherCondition weather = campusWeather.get(location);
+ocation);
         if (weather == null) {
             return 1.0;
         }
