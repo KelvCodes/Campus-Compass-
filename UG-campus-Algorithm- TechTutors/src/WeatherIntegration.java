@@ -1,5 +1,4 @@
 
-            this.condition = condition;
             this.temperature = temperature;
             this.humidity = humidity;
             this.windSpeed = windSpeed;
