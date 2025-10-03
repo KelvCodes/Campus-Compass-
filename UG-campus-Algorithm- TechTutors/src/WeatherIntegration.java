@@ -1,5 +1,5 @@
 
-    public static class WeatherAdju
+    publi
         public double distance;
         public double baseTime;
         public double weatherAdjustedTime;
