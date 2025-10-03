@@ -1,10 +1,4 @@
-if (weather != null) {
-                if (weather.isRaining) {
-                    route.recommendations.add(" Bring umbrella for " + location);
-                }
-                if (weather.temperature > 30.0) {
-                    route.recommendations.add(" Stay hydrated, high temperature at " + location);
-                }
+
                 if (weather.visibility < 5.0) {
                     route.recommendations.add(" Low visibility at " + location + ", be careful");
                 }
