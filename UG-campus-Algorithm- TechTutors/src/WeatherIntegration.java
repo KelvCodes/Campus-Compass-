@@ -1,6 +1,4 @@
-
-        if (weather.humidity > 80.0) {
-            factor *= 1.05;
+;
         }
         
         return factor;
