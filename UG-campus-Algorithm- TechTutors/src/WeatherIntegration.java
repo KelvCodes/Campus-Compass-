@@ -1,5 +1,4 @@
 
-        public double visibility;
         
         public WeatherCondition(String condition, double temperature, double humidity, 
             double windSpeed, boolean isRaining, double visibility) {
