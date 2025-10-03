@@ -1,7 +1,4 @@
 
-        campusWeather.put("Banking Square", new WeatherCondition("Sunny", 28.0, 63.0, 3.0, false, 9.0));
-    }
-    
     public static double calculateWeatherFactor(String location) {
         WeatherCondition weather = campusWeather.get(location);
         if (weather == null) {
