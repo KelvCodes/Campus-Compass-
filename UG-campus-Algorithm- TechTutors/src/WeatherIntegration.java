@@ -1,8 +1,4 @@
-;
-        }
-        
-        return factor;
-    }
+
     
     public static WeatherAdjustedRoute adjustRouteForWeather(List<String> path, double distance, double baseTime) {
         WeatherAdjustedRoute route = new WeatherAdjustedRoute(path, distance, baseTime);
