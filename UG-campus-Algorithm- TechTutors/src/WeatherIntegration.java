@@ -1,5 +1,4 @@
 
-    private static void initializeWeatherData() {
         campusWeather.put("Main Gate", new WeatherCondition("Sunny", 28.0, 65.0, 5.0, false, 10.0));
         campusWeather.put("Balme Library", new WeatherCondition("Partly Cloudy", 26.0, 70.0, 3.0, false, 8.0));
         campusWeather.put("Engineering School", new WeatherCondition("Sunny", 29.0, 60.0, 4.0, false, 10.0));
