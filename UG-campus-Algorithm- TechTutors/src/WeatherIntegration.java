@@ -1,6 +1,5 @@
 
-    public static class WeatherAdjustedRoute {
-        public List<String> path;
+    public static class WeatherAdju
         public double distance;
         public double baseTime;
         public double weatherAdjustedTime;
