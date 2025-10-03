@@ -1,7 +1,4 @@
-
-     new WeatherAdjustedRoute(path, distance, baseTime);
-        
-        double totalWeatherFactor = 1.0;
+otalWeatherFactor = 1.0;
         int locationCount = 0;
         
         for (String location : path) {
