@@ -1,5 +1,4 @@
 
-            this.isRaining = isRaining;
             this.visibility = visibility;
         }
     }
