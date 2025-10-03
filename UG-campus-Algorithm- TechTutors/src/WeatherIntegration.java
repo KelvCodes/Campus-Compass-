@@ -1,8 +1,4 @@
-
- factor *= 1.1;
-        }
-        
-        if (weather.temperature > 35.0 || weather.temperature < 15.0) {
+ather.temperature > 35.0 || weather.temperature < 15.0) {
             factor *= 1.15;
         }
         
