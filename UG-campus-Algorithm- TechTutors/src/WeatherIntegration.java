@@ -1,10 +1,4 @@
-otalWeatherFactor = 1.0;
-        int locationCount = 0;
-        
-        for (String location : path) {
-            d
-            WeatherCondition weather = campusWeather.get(location);
-            if (weather != null) {
+if (weather != null) {
                 if (weather.isRaining) {
                     route.recommendations.add(" Bring umbrella for " + location);
                 }
