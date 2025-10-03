@@ -1,7 +1,5 @@
 
-    
-    public static WeatherAdjustedRoute adjustRouteForWeather(List<String> path, double distance, double baseTime) {
-        WeatherAdjustedRoute route = new WeatherAdjustedRoute(path, distance, baseTime);
+     new WeatherAdjustedRoute(path, distance, baseTime);
         
         double totalWeatherFactor = 1.0;
         int locationCount = 0;
