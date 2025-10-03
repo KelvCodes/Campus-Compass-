@@ -1,7 +1,6 @@
 
     pu
-  eatherImpact;
-        public WeatherAdjustedRoute(List<String> path, double distance, double baseTime) {
+erAdjustedRoute(List<String> path, double distance, double baseTime) {
             this.path = path;
             this.distance = distance;
             this.baseTime = baseTime;
