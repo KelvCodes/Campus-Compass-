@@ -1,5 +1,4 @@
 
-tion, double temperature, double humidity, 
             double windSpeed, boolean isRaining, double visibility) {
             this.condition = condition;
             this.temperature = temperature;
