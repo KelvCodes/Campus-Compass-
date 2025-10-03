@@ -1,11 +1,5 @@
 
-  (
-    ther.visibility < 5.0) {
-            factor *= 1.2;
-        }
-        
-        if (weather.windSpeed > 10.0) {
-            factor *= 1.1;
+ factor *= 1.1;
         }
         
         if (weather.temperature > 35.0 || weather.temperature < 15.0) {
