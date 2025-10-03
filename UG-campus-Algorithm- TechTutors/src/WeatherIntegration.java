@@ -2,10 +2,7 @@ otalWeatherFactor = 1.0;
         int locationCount = 0;
         
         for (String location : path) {
-            double factor = calculateWeatherFactor(location);
-            totalWeatherFactor += factor;
-            locationCount++;
-            
+            d
             WeatherCondition weather = campusWeather.get(location);
             if (weather != null) {
                 if (weather.isRaining) {
