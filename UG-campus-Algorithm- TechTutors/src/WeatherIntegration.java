@@ -1,7 +1,4 @@
-ather.temperature > 35.0 || weather.temperature < 15.0) {
-            factor *= 1.15;
-        }
-        
+
         if (weather.humidity > 80.0) {
             factor *= 1.05;
         }
