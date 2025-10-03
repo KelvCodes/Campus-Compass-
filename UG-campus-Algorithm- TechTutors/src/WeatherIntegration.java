@@ -1,8 +1,4 @@
 
-            this.visibility = visibility;
-        }
-    }
-    
     public static class WeatherAdjustedRoute {
         public List<String> path;
         public double distance;
