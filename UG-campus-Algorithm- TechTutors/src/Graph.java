@@ -1,6 +1,5 @@
 
 
-public class Graph {
     private Set<Nodes> nodes;
     private boolean directed;
     Graph(boolean directed) {
