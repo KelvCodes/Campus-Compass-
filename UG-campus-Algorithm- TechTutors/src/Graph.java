@@ -1,6 +1,4 @@
 
-
-    private Set<Nodes> nodes;
     private boolean directed;
     Graph(boolean directed) {
         this.directed = directed;
