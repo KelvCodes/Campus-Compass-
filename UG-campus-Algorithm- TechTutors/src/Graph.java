@@ -1,6 +1,4 @@
 
-    Graph(boolean directed) {
-        this.directed = directed;
         nodes = new HashSet<>();
     }
 
