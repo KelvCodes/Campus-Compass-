@@ -1,5 +1,4 @@
- {
-        LinkedList<Edge> edges = source.edges;
+> edges = source.edges;
         for (Edge edge : edges) {
             if (edge.destination == destination) {
                 return true;
