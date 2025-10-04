@@ -1,4 +1,4 @@
-rintln("\t" + edge.destination.name + " with weight " + edge.weight);
+n.name + " with weight " + edge.weight);
             }
 
             System.out.println();
