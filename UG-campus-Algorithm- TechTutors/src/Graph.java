@@ -1,10 +1,5 @@
 
 
-            addEgdeHelper(destination, source, weight);
-        }
-
-    }
-
     public void addEgdeHelper(Nodes a, Nodes b, double weight) {
         for (Edge edge : a.edges) {
             if (edge.source == a && edge.destination == b) {
