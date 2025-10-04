@@ -1,5 +1,4 @@
-> edge edge : edges) {
-            if (edge.destination == destination) {
+> edge edge :             if (edge.destination == destination) {
                 return true;
             }
         }
