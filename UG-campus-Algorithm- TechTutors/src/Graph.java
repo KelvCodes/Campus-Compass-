@@ -1,5 +1,4 @@
-
-        a.edges.add(new Edge(a, b, weight));
+a, b, weight));
     }
 
     public void printEdges() {
