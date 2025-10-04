@@ -1,5 +1,5 @@
 
-            LinkedList<Edge> edges = node.edges;
+            LinkedList<Edge> edge
 
             if (edges.isEmpty()) {
                 System.out.println(node.name + " has no edges");
