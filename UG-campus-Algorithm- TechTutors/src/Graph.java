@@ -1,5 +1,3 @@
-a, b, weight));
-    }
 
     public void printEdges() {
         for (Nodes node : nodes) {
