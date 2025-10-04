@@ -1,6 +1,4 @@
-
-
-    public void resetNodesVisited() {
+odesVisited() {
         for (Nodes node : nodes) {
             node.unvisit();
         }
