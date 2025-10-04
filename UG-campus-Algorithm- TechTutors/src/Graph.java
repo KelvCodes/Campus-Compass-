@@ -1,8 +1,4 @@
-de : nodes
-    }
-
-    public Set<Nodes> getNodes() {
-        return new HashSet<>(nodes);
+de : nodesnodes);
     }
 
 
