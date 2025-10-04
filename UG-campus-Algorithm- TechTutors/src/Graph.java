@@ -1,6 +1,4 @@
-
-      
-                System.out.println("\t" + edge.destination.name + " with weight " + edge.weight);
+rintln("\t" + edge.destination.name + " with weight " + edge.weight);
             }
 
             System.out.println();
