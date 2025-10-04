@@ -1,6 +1,5 @@
 
 
-        if (!directed && source != destination) {
             addEgdeHelper(destination, source, weight);
         }
 
