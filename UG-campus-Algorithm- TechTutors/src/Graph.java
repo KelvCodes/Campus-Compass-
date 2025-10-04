@@ -1,6 +1,6 @@
 
 
-    public String shortestPath(Nodes start, Nodes end) {
+
         HashMap<Nodes, Nodes> changedAt = new HashMap<>();
         changedAt.put(start, null);
 
