@@ -1,5 +1,4 @@
-> edges = source.edges;
-        for (Edge edge : edges) {
+> edge edge : edges) {
             if (edge.destination == destination) {
                 return true;
             }
