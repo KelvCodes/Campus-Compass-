@@ -1,7 +1,7 @@
 
 
             }
-            System.out.println("Node " + node.name + " has edges to: ");
+            Sysintln("Node " + node.name + " has edges to: ");
 
             for (Edge edge : edges) {
                 System.out.println("\t" + edge.destination.name + " with weight " + edge.weight);
