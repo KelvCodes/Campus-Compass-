@@ -1,7 +1,6 @@
 
             }
 
-            System.out.println();
         }
 
     }
