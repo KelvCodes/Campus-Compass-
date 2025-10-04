@@ -1,7 +1,5 @@
 
 
-          de.name + " has no edges");
-                continue;
             }
             System.out.println("Node " + node.name + " has edges to: ");
 
