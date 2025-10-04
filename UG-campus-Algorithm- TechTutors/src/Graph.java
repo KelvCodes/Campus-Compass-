@@ -1,6 +1,4 @@
 
-        nodes.addAll(Arrays.asList(n));
-    }
 
     public void addEdge(Nodes source, Nodes destination, double weight) {
         nodes.add(source);
