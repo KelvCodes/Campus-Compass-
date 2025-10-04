@@ -1,6 +1,5 @@
 
-
-    public void addEdge(Nodes source, Nodes destination, double weight) {
+e, Nodes destination, double weight) {
         nodes.add(source);
         nodes.add(destination);
 
