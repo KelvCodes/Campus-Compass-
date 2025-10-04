@@ -1,4 +1,4 @@
-       if (edge.destination == destination) {
+
                 return true;
             }
         }
