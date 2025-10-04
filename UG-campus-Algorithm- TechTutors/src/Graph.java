@@ -1,7 +1,5 @@
 
-            if (edge.source == a && edge.destination == b) {
-                edge.weight = weight;
-                return;
+            if (ed
             }
         }
 
