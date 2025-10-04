@@ -1,6 +1,4 @@
 
-        nodes = new HashSet<>();
-    }
 
     public void addNode(Nodes... n) {
         nodes.addAll(Arrays.asList(n));
