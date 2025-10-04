@@ -1,7 +1,4 @@
 
-        return false;
-
-    }
 
     public void resetNodesVisited() {
         for (Nodes node : nodes) {
