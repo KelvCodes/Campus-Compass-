@@ -1,5 +1,5 @@
 
-    public void printEdges() {
+rintEdges() {
         for (Nodes node : nodes) {
             LinkedList<Edge> edges = node.edges;
 
