@@ -1,9 +1,4 @@
 
-            }
-
-        }
-
-    }
 
     public boolean hasEdge(Nodes source, Nodes destination) {
         LinkedList<Edge> edges = source.edges;
