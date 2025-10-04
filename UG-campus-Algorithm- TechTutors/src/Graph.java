@@ -1,5 +1,4 @@
-
-e, Nodes destination, double weight) {
+, double weight) {
         nodes.add(source);
         nodes.add(destination);
 
