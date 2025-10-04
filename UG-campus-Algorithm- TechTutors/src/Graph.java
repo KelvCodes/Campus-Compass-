@@ -1,5 +1,4 @@
-, double weight) {
-        nodes.add(source);
+
         nodes.add(destination);
 
         addEgdeHelper(source, destination, weight);
