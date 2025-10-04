@@ -1,5 +1,4 @@
 
-rintEdgeode : nodes) {
             LinkedList<Edge> edges = node.edges;
 
             if (edges.isEmpty()) {
