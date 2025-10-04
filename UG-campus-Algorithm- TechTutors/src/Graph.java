@@ -1,4 +1,4 @@
-, Nodes destination) {
+ {
         LinkedList<Edge> edges = source.edges;
         for (Edge edge : edges) {
             if (edge.destination == destination) {
