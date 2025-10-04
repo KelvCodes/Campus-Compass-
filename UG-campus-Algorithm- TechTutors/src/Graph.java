@@ -1,6 +1,4 @@
 
-        nodes.add(destination);
-
         addEgdeHelper(source, destination, weight);
 
         if (!directed && source != destination) {
