@@ -1,6 +1,4 @@
-de : nodes) {
-            node.unvisit();
-        }
+de : nodes
     }
 
     public Set<Nodes> getNodes() {
