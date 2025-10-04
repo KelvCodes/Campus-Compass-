@@ -1,7 +1,6 @@
 
 
-
-        HashMap<Nodes, Nodes> changedAt = new HashMap<>();
+ changedAt = new HashMap<>();
         changedAt.put(start, null);
 
         HashMap<Nodes, Double> shortestPath = new HashMap<>();
