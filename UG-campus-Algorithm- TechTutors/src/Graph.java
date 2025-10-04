@@ -1,6 +1,5 @@
 
-
-    public boolean hasEdge(Nodes source, Nodes destination) {
+Edge(Nodes source, Nodes destination) {
         LinkedList<Edge> edges = source.edges;
         for (Edge edge : edges) {
             if (edge.destination == destination) {
