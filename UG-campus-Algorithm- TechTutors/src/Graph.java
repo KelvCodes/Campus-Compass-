@@ -1,5 +1,3 @@
-de : nodesnodes);
-    }
 
 
     public String shortestPath(Nodes start, Nodes end) {
