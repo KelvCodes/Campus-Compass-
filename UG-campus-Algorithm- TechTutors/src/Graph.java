@@ -1,4 +1,4 @@
-h weight " + edge.weight);
+dge.weight);
             }
 
             System.out.println();
