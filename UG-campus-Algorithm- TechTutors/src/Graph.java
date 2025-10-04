@@ -1,6 +1,4 @@
 
-
-        for (Edge edge : a.edges) {
             if (edge.source == a && edge.destination == b) {
                 edge.weight = weight;
                 return;
