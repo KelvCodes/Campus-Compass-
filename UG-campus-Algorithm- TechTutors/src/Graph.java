@@ -1,5 +1,4 @@
-
-        for (Nodes node : nodes) {
+de : nodes) {
             node.unvisit();
         }
     }
