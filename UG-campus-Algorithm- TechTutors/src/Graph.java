@@ -1,4 +1,4 @@
-n.name + " with weight " + edge.weight);
+h weight " + edge.weight);
             }
 
             System.out.println();
