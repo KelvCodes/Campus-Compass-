@@ -1,4 +1,4 @@
-public class Edge implements Comparable<Edge> {
+
     Nodes source;
     Nodes destination;
     double weight;
