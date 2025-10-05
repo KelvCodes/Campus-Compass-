@@ -1,4 +1,4 @@
-toString(){
+ring(){
         return String.format("%s-> %s, %f", source.name, destination.name, weight);
     }
 
