@@ -1,6 +1,5 @@
 
-        if (this.weight > otherEdge.weight) {
-            return 1;
+      rn 1;
         }
         else {
             return -1;
