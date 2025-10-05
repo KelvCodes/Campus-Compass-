@@ -1,4 +1,4 @@
-s.weight = weight;
+ight = weight;
     }
 
     public String toString(){
