@@ -1,5 +1,4 @@
-
-    public int compareTo(Edge otherEdge) {
+ic int compareTo(Edge otherEdge) {
         if (this.weight > otherEdge.weight) {
             return 1;
         }
