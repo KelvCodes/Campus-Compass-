@@ -1,5 +1,4 @@
 
-    }
 
     public String toString(){
         return String.format("%s-> %s, %f", source.name, destination.name, weight);
