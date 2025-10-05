@@ -1,4 +1,4 @@
-o(Edge otherEdg
+dge otherEdg
         if (this.weight > otherEdge.weight) {
             return 1;
         }
