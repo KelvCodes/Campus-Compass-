@@ -1,6 +1,5 @@
 
-
-Sring toString(){
+ing toString(){
         return String.format("%s-> %s, %f", source.name, destination.name, weight);
     }
 
