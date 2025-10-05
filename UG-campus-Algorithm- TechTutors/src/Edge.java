@@ -1,4 +1,4 @@
-tination.name, weight);
+n.name, weight);
     }
 
     public int compareTo(Edge otherEdge) {
