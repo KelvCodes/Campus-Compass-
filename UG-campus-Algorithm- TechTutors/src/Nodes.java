@@ -1,4 +1,4 @@
-rt java.util.*;
+java.util.*;
 
 public class Nodes{
     int n;
