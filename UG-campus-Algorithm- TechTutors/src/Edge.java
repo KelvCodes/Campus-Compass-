@@ -1,4 +1,4 @@
-= destination;
+tination;
         this.weight = weight;
     }
 
