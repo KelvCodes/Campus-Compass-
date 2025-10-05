@@ -1,5 +1,4 @@
-
-        this.weight = weight;
+s.weight = weight;
     }
 
     public String toString(){
