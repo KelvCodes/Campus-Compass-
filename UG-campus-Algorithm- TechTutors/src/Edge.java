@@ -1,4 +1,4 @@
-therEdg
+Edg
         if (this.weight > otherEdge.weight) {
             return 1;
         }
