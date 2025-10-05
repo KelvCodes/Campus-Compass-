@@ -1,4 +1,4 @@
- source.name, destination.name, weight);
+e.name, destination.name, weight);
     }
 
     public int compareTo(Edge otherEdge) {
