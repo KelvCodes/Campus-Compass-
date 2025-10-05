@@ -1,5 +1,4 @@
-
-        this.destination = destination;
+nation = destination;
         this.weight = weight;
     }
 
