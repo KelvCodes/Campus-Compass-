@@ -1,4 +1,4 @@
-g.format("%s-> %s, %f", source.name, destination.name, weight);
+mat("%s-> %s, %f", source.name, destination.name, weight);
     }
 
     public int compareTo(Edge otherEdge) {
