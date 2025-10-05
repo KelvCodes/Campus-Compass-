@@ -1,4 +1,4 @@
-nt compareTo(Edge otherEdge) {
+compareTo(Edge otherEdge) {
         if (this.weight > otherEdge.weight) {
             return 1;
         }
