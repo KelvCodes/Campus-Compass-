@@ -1,4 +1,4 @@
-rn String.format("%s-> %s, %f", source.name, destination.name, weight);
+ring.format("%s-> %s, %f", source.name, destination.name, weight);
     }
 
     public int compareTo(Edge otherEdge) {
