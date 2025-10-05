@@ -1,5 +1,4 @@
 
-    Nodes destination;
     double weight;
 
     public Edge(Nodes source, Nodes destination, double weight) {
