@@ -1,5 +1,4 @@
 
-    Nodes source;
     Nodes destination;
     double weight;
 
