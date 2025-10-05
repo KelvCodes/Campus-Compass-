@@ -1,4 +1,4 @@
-tination;
+ation;
         this.weight = weight;
     }
 
