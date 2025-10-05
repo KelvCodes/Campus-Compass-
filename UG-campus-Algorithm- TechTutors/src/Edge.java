@@ -1,5 +1,4 @@
 
-    double weight;
 
     public Edge(Nodes source, Nodes destination, double weight) {
         this.source = source;
