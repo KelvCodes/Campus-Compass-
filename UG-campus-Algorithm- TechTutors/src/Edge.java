@@ -1,4 +1,4 @@
-nation = destination;
+ion = destination;
         this.weight = weight;
     }
 
