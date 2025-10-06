@@ -1,4 +1,4 @@
-sVisited() {
+ited() {
         return visited;
     }
 
