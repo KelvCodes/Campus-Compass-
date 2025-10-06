@@ -1,4 +1,4 @@
-ted = false;
+false;
         edges = new LinkedList<>();
     }
 
