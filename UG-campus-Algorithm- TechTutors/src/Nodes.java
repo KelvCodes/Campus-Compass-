@@ -1,5 +1,5 @@
 
-        this.name = nameOfLocation;
+        tname = nameOfLocation;
         visited = false;
         edges = new LinkedList<>();
     }
