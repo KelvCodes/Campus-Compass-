@@ -1,5 +1,4 @@
-{
-        return visited;
+rn visited;
     }
 
     void visit() {
