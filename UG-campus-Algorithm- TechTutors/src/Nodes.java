@@ -1,4 +1,4 @@
-t<Edge> edges;
+dge> edges;
 
     public Nodes (int n, String nameOfLocation) {
         this.n = n;
