@@ -1,4 +1,4 @@
- name;
+ame;
     private boolean visited;
     LinkedList<Edge> edges;
 
