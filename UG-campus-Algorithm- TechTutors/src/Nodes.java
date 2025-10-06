@@ -1,5 +1,4 @@
-
-    LinkedList<Edge> edges;
+kedList<Edge> edges;
 
     public Nodes (int n, String nameOfLocation) {
         this.n = n;
