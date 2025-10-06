@@ -1,5 +1,4 @@
-
-    String name;
+ring name;
     private boolean visited;
     LinkedList<Edge> edges;
 
