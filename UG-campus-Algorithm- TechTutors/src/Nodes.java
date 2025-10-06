@@ -1,5 +1,5 @@
 
-        edg = new LinkedList<>();
+         = new LinkedList<>();
     }
 
     boolean isVisited() {
