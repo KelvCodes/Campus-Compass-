@@ -1,5 +1,4 @@
-
-         = new LinkedList<>();
+ LinkedList<>();
     }
 
     boolean isVisited() {
