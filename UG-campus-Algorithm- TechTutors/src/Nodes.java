@@ -1,5 +1,4 @@
-
-        tname = nameOfLocation;
+e = nameOfLocation;
         visited = false;
         edges = new LinkedList<>();
     }
