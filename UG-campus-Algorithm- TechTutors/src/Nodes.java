@@ -1,4 +1,4 @@
-List<>();
+
     }
 
     boolean isVisited() {
