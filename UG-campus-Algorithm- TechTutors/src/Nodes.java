@@ -1,4 +1,4 @@
-ited;
+ed;
     LinkedList<Edge> edges;
 
     public Nodes (int n, String nameOfLocation) {
