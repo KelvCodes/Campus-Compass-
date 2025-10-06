@@ -1,4 +1,4 @@
-ited() {
+it() {
         return visited;
     }
 
