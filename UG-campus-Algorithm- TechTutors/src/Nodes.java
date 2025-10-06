@@ -1,4 +1,4 @@
-ameOfLocation;
+Location;
         visited = false;
         edges = new LinkedList<>();
     }
