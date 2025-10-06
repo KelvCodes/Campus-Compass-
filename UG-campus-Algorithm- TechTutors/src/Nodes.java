@@ -1,4 +1,4 @@
- Nodes (int n, String nameOfLocation) {
+s (int n, String nameOfLocation) {
         this.n = n;
         this.name = nameOfLocation;
         visited = false;
