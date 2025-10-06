@@ -1,5 +1,4 @@
-
-        visited = false;
+ted = false;
         edges = new LinkedList<>();
     }
 
