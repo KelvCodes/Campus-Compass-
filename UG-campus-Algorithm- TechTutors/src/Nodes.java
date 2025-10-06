@@ -1,6 +1,5 @@
 
-ic class Nodes{
-    int n;
+ int n;
     String name;
     private boolean visited;
     LinkedList<Edge> edges;
