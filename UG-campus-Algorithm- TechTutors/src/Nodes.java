@@ -1,4 +1,4 @@
-ring name;
+g name;
     private boolean visited;
     LinkedList<Edge> edges;
 
