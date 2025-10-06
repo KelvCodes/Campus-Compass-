@@ -1,4 +1,4 @@
-ivate boolean visited;
+ate boolean visited;
     LinkedList<Edge> edges;
 
     public Nodes (int n, String nameOfLocation) {
