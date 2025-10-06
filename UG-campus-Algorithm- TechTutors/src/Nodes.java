@@ -1,5 +1,5 @@
 
- int n;
+ n;
     String name;
     private boolean visited;
     LinkedList<Edge> edges;
