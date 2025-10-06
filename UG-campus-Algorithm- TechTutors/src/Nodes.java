@@ -1,5 +1,4 @@
-
-    public Nodes (int n, String nameOfLocation) {
+lic Nodes (int n, String nameOfLocation) {
         this.n = n;
         this.name = nameOfLocation;
         visited = false;
