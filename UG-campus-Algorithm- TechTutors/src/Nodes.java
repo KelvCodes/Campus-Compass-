@@ -1,4 +1,4 @@
-eOfLocation) {
+) {
         this.n = n;
         this.name = nameOfLocation;
         visited = false;
