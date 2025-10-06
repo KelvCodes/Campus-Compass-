@@ -1,4 +1,4 @@
-nt n, String nameOfLocation) {
+String nameOfLocation) {
         this.n = n;
         this.name = nameOfLocation;
         visited = false;
