@@ -1,4 +1,4 @@
-ean isVisited() {
+sVisited() {
         return visited;
     }
 
