@@ -1,5 +1,5 @@
 
-blic class Nodes{
+ic class Nodes{
     int n;
     String name;
     private boolean visited;
