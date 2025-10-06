@@ -1,7 +1,4 @@
-
-    }
-
-    boolean isVisited() {
+ean isVisited() {
         return visited;
     }
 
