@@ -1,7 +1,4 @@
-
-    
-    
-    public static int linearSearch(List<Landmark> landmarks, String target) {
+andmark> landmarks, String target) {
         for (int i = 0; i < landmarks.size(); i++) {
             if (landmarks.get(i).name.equalsIgnoreCase(target) || 
                 landmarks.get(i).name.toLowerCase().contains(target.toLowerCase())) {
