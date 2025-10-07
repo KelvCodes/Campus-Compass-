@@ -1,5 +1,4 @@
-rbyLocations;
-        
+
         public Landmark(String name, String category, double x, double y) {
             this.name = name;
             this.category = category;
