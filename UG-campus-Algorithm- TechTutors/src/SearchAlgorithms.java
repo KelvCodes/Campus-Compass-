@@ -1,4 +1,4 @@
-SearchAlgorithms {
+orithms {
     
     public static class Landmark {
         public String name;
