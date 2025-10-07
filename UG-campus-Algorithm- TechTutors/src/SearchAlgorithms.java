@@ -1,4 +1,4 @@
-String category, double x, double y) {
+
             thiory;
             this.x = x;
             this.y = y;
