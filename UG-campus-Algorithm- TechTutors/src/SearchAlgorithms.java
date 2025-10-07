@@ -1,7 +1,5 @@
 
-            return String.format("%s (%s) - Near: %s", name, category, String.join(", ", nearbyLocations));
-        }
-    }
+    
     
     public static int linearSearch(List<Landmark> landmarks, String target) {
         for (int i = 0; i < landmarks.size(); i++) {
