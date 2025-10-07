@@ -1,7 +1,6 @@
 
     st<Landmark> landmarks, String target) {
-        int left = 0;
-        int right = landmarks.size() - 1;
+        int left landmarks.size() - 1;
         
         while (left <= right) {
             int mid = left + (right - left) / 2;
