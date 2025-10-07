@@ -1,6 +1,5 @@
 String category, double x, double y) {
-            this.name = name;
-            this.category = category;
+            thiory;
             this.x = x;
             this.y = y;
             this.nearbyLocations = new ArrayList<>();
