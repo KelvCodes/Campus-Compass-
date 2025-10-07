@@ -1,7 +1,4 @@
-
-    }
-    
-    public static : landmarks) {
+s) {
             if (landmark.category.equalsIgnoreCase(category)) {
                 results.add(landmark);
             }
