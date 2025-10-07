@@ -1,8 +1,4 @@
-== 0 || midName.contains(targetLower)) {
-                return mid;
-            } else if 
-                right = mid - 1;
-            }
+== 0 |
         }
         return -1;
     }
