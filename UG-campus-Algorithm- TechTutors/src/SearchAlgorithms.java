@@ -1,6 +1,4 @@
 
-            this.x = x;
-            this.y = y;
             this.nearbyLocations = new ArrayList<>();
         }
         
