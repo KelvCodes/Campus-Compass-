@@ -1,9 +1,7 @@
 
     }
     
-    public static List<Landmark> searchByCategory(List<Landmark> landmarks, String category) {
-        List<Landmark> results = new ArrayList<>();
-        for (Landmark landmark : landmarks) {
+    public static : landmarks) {
             if (landmark.category.equalsIgnoreCase(category)) {
                 results.add(landmark);
             }
