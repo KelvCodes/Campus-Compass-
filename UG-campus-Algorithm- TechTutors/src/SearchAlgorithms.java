@@ -1,6 +1,4 @@
-ory;
-        public double x, y;
-        public List<String> nearbyLocations;
+rbyLocations;
         
         public Landmark(String name, String category, double x, double y) {
             this.name = name;
