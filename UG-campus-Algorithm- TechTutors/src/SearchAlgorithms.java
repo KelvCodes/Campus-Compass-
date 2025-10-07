@@ -1,4 +1,4 @@
-andmark> landmarks, String t; i++) {
+; i++) {
             if (landmarks.get(i).name.equalsIgnoreCase(target) || 
                 landmarks.get(i).name.toLowerCase().contains(target.toLowerCase())) {
                 return i;
