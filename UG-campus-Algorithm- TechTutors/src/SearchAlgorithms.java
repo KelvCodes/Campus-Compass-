@@ -1,5 +1,4 @@
 
-    st<Landmark> landmarks, String target) {
         int left landmarks.size() - 1;
         
         while (left <= right) {
