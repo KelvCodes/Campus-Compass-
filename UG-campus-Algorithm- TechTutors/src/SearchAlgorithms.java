@@ -1,5 +1,4 @@
-; i++) {
-            if (landmarks.get(i).name.equalsIgnoreCase(target) || 
+; i++) {.equalsIgnoreCase(target) || 
                 landmarks.get(i).name.toLowerCase().contains(target.toLowerCase())) {
                 return i;
             }
