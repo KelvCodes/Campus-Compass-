@@ -1,5 +1,4 @@
 
-            String targetLower = target.toLowerCase();
             
             int comparison = midName.compareTo(targetLower);
             
