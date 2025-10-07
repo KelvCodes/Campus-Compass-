@@ -1,8 +1,4 @@
 
-            }
-        }
-        return -1;
-    }
     
     public static int binarySearch(List<Landmark> landmarks, String target) {
         int left = 0;
