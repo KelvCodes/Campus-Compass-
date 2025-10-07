@@ -1,5 +1,4 @@
 
-        public void addNearbyLocation(String location) {
             nearbyLocations.add(location);
         }
         
