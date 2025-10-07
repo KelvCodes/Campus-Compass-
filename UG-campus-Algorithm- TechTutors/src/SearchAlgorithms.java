@@ -1,6 +1,4 @@
-== 0 |
-        }
-        return -1;
+
     }
     
     public static List<Landmark> searchByCategory(List<Landmark> landmarks, String category) {
