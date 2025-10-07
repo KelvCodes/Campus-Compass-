@@ -1,5 +1,4 @@
-tatname;
-        public String category;
+ory;
         public double x, y;
         public List<String> nearbyLocations;
         
