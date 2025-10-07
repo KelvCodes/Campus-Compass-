@@ -1,5 +1,4 @@
 
-        int left landmarks.size() - 1;
         ft + (right - left) / 2;
             String midName = landmarks.get(mid).name.toLowerCase();
             String targetLower = target.toLowerCase();
