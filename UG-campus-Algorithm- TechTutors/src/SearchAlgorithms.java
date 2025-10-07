@@ -1,4 +1,4 @@
-arks.get(mid).name.toLowerCase();
+
             String targetLower = target.toLowerCase();
             
             int comparison = midName.compareTo(targetLower);
