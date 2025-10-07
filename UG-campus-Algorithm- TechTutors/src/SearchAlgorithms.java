@@ -1,5 +1,4 @@
-tatic class Landmark {
-        public String name;
+tatname;
         public String category;
         public double x, y;
         public List<String> nearbyLocations;
