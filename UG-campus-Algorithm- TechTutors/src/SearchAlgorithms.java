@@ -1,6 +1,4 @@
-
-            
-            if (comparison == 0 || midName.contains(targetLower)) {
+== 0 || midName.contains(targetLower)) {
                 return mid;
             } else if (comparison < 0) {
                 left = mid + 1;
