@@ -1,5 +1,4 @@
-orithms {
-    
+
     public static class Landmark {
         public String name;
         public String category;
