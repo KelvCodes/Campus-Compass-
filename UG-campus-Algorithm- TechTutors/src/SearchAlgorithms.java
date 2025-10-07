@@ -1,6 +1,5 @@
 
-    
-    public static int binarySearch(List<Landmark> landmarks, String target) {
+    st<Landmark> landmarks, String target) {
         int left = 0;
         int right = landmarks.size() - 1;
         
