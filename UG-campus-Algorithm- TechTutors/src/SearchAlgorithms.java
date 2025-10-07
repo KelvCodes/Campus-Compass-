@@ -1,6 +1,4 @@
-
-        ft + (right - left) / 2;
-            String midName = landmarks.get(mid).name.toLowerCase();
+arks.get(mid).name.toLowerCase();
             String targetLower = target.toLowerCase();
             
             int comparison = midName.compareTo(targetLower);
