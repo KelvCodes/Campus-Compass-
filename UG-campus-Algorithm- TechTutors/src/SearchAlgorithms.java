@@ -1,5 +1,4 @@
-
-    public static class Landmark {
+tatic class Landmark {
         public String name;
         public String category;
         public double x, y;
