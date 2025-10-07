@@ -1,5 +1,4 @@
-andmark> landmarks, String target) {
-        for (int i = 0; i < landmarks.size(); i++) {
+andmark> landmarks, String t; i++) {
             if (landmarks.get(i).name.equalsIgnoreCase(target) || 
                 landmarks.get(i).name.toLowerCase().contains(target.toLowerCase())) {
                 return i;
