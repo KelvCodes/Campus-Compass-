@@ -1,7 +1,6 @@
 
       
-        @Override
-        public String toString() {
+        ing toString() {
             return String.format("%s (%s) - Near: %s", name, category, String.join(", ", nearbyLocations));
         }
     }
