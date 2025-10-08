@@ -1,5 +1,4 @@
 
-        UIManager.put("OptionPane.messageForeground", text);
         UIManager.put("Button.background", surface);
         UIManager.put("Button.foreground", text);
         UIManager.put("Label.foreground", text);
