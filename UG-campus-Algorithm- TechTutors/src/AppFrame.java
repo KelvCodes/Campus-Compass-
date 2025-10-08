@@ -1,5 +1,5 @@
 
-    private JButton clearButton;
+    pri
     private JFrame frame;
     private JPanel mainPanel;
     private JPanel resultPanel;
