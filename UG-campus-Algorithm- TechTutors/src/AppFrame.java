@@ -1,5 +1,4 @@
 
-        UIManager.put("Button.font", base);
         UIManager.put("ComboBox.font", base);
         UIManager.put("TextArea.font", new Font("Consolas", Font.PLAIN, 13));
     }
