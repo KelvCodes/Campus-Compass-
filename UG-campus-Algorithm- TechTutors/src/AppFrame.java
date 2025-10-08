@@ -1,8 +1,4 @@
-
-        addEdgesToGraph();
-    }
-
-    private void addEdgesToGraph() {
+d addEdgesToGraph() {
         graph.addEdge(locationNodes.get("Engineering School"), locationNodes.get("CS Department"), 270.12);
         graph.addEdge(locationNodes.get("Engineering School"), locationNodes.get("Law Faculty"), 420.88);
         graph.addEdge(locationNodes.get("Engineering School"), locationNodes.get("JQB"), 502.43);
