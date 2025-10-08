@@ -1,5 +1,4 @@
-usinessSchool = new Nodes(9, "Business School");
-        Nodes voltaHall = new Nodes(10, "Volta Hall");
+Hall = new Nodes(10, "Volta Hall");
         Nodes commonwealth = new Nodes(11, "Commonwealth");
         Nodes greatHall = new Nodes(12, "Great Hall");
         Nodes akuafoHall = new Nodes(13, "Akuafo Hall");
