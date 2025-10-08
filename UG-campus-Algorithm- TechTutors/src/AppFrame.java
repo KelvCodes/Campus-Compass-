@@ -1,6 +1,5 @@
 es bankingSquare = new Nodes(18, "Banking Square");
-        Nodes nightMarket = new Nodes(19, "Night Market");
-        Nodes basicSchool = new Nodes(20, "Basic School");
+        NodasicSchool = new Nodes(20, "Basic School");
         Nodes diasporaHalls = new Nodes(21, "Diaspora Halls");
 
         locationNodes.put("Engineering School", engineeringSchool);
