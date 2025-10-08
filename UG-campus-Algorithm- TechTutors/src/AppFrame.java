@@ -1,4 +1,4 @@
-, 38, 38).caretForeground", text);
+
         UIr.put("ScrollPane.background", panel);
         UIManager.put("TitledBorder.titleColor", subtle);
         UIManager.put(ip.background", new Color(40, 40, 40));
