@@ -1,5 +1,3 @@
-.put("BunightMarket);
-        locationNodespora Halls", diasporaHalls);
 
         addEdgesToGraph();
     }
