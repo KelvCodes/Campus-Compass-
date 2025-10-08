@@ -5,9 +5,7 @@ d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Balme Library"), locationNodes.get("Akuafo Hall"), 316.59);
         graph.adAkuafo Hall"), locationNodes.get("Sarbah Park"), 200.00);
         graph.addEdge(locationNodes.get("Basic School"), locationNodes.get("Night Market"), 591.36);
-        graph.addEdge(locationNodes.get("Night Market"), locationNodes.get("Diaspora Halls"), 645.28);
-        graph.addEdge(locationNodes.get("Night Market"), locationNodes.get("Banking Square"), 957.14);
-        graph.addEdge(locationNodes.get("Bush Canteen"), locationNodes.get("Fire Station"), 122.85);
+        graph.addes.get("Bush Canteen"), locationNodes.get("Fire Station"), 122.85);
         graph.addEdge(locationNodes.get("Fire Station"), locationNodes.get("Banking Square"), 957.14);
 
         graph.addEdge(locationNodes.get("Main Gate"), locationNodes.get("Engineering School"), 800.00);
