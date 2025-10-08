@@ -1,6 +1,4 @@
-
-        Nodes balmeLibrary = new Nodes(7, "Balme Library");
-        Nodes ugcs = new Nodes(8, "UGCS");
+ew Nodes(8, "UGCS");
         Nodes businessSchool = new Nodes(9, "Business School");
         Nodes voltaHall = new Nodes(10, "Volta Hall");
         Nodes commonwealth = new Nodes(11, "Commonwealth");
