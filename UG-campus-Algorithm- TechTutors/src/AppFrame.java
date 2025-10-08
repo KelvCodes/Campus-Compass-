@@ -1,7 +1,5 @@
 .put("Bush Canteen", bushCanteen);
-        ldes.put("Fire Station", fireStation);
-        locationNodes.put("Banking Square", bankingSquare);
-        locationNodes.put("Night Market", nightMarket);
+        ldeut("Night Market", nightMarket);
         locationNodes.put("Basic School", basicSchool);
         locationNodes.put("Diaspora Halls", diasporaHalls);
 
