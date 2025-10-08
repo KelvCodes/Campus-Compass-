@@ -1,7 +1,4 @@
 
-    lizeGraph();
-        setupUI();
-    }
 
     /** ---- DESIGN: Apply dark theme defaults (no logic change) ---- */
     private void applyDarkThemeUIDefaults() {
