@@ -1,5 +1,4 @@
-, 38, 38));
-        UIManager.putArea.background", bg);
+, 38, 38));", bg);
         UIManager.put("TextArea.foreground", text);
         UIManager.put("TextArea.caretForeground", text);
         UIManager.put("ScrollPane.background", panel);
