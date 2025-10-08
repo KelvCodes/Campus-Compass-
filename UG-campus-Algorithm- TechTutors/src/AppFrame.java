@@ -1,6 +1,4 @@
-des> locationNodes;
 
-    public AppFrame() {
         applyDarkThemeUIDefaults(); // design-only change
         initializeGraph();
         setupUI();
