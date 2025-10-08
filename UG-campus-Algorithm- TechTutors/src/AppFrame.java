@@ -1,6 +1,5 @@
 
-        UIManager.put(ip.background", new Color(40, 40, 40));
-        UIManager.put("ToolTip.foreground", text);
+        UIManager.putreground", text);
 
         // Improve default font a bit
         Font base = new Font("Segoe UI", Font.PLAIN, 13);
