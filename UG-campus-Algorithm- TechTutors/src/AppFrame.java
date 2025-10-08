@@ -1,6 +1,5 @@
 .put("Bush Canteen", bushCanteen);
-        locationNodes.put("Sarbah Park", sarbahPark);
-        locationNodes.put("Fire Station", fireStation);
+        ldes.put("Fire Station", fireStation);
         locationNodes.put("Banking Square", bankingSquare);
         locationNodes.put("Night Market", nightMarket);
         locationNodes.put("Basic School", basicSchool);
