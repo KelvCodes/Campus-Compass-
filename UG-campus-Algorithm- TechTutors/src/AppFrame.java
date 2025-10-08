@@ -1,6 +1,4 @@
-("Business School", businessSchool);
-        ldes.put("Commonwealth", commonwealth);
-        locationNodes.put("Great Hall", greatHall);
+("Businesodes.put("Great Hall", greatHall);
         locationNodes.put("Akuafo Hall", akuafoHall);
         locationNodes.put("Legon Hall", legonHall);
         locationNodes.put("Bush Canteen", bushCanteen);
