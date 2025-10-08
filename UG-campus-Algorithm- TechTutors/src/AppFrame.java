@@ -1,6 +1,4 @@
 
-        Color subtle = new Color(160, 160, 160);
-        Color border = new Color(56, 56, 56);
 
         // Common UI defaults
         UIManager.put("Panel.background", panel);
