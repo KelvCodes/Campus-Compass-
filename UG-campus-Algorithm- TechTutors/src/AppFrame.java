@@ -1,6 +1,4 @@
 
-    private JLabel routeLabel; // kept to match your class fields
-    private JButton findRouteButton;
     private JButton clearButton;
     private JFrame frame;
     private JPanel mainPanel;
