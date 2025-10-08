@@ -1,6 +1,5 @@
 , 38, 38));", bg);
-        UIManager.put("TextArea.foreground", text);
-        UIManager.put("TextArea.caretForeground", text);
+  er.put("TextArea.caretForeground", text);
         UIManager.put("ScrollPane.background", panel);
         UIManager.put("TitledBorder.titleColor", subtle);
         UIManager.put(ip.background", new Color(40, 40, 40));
