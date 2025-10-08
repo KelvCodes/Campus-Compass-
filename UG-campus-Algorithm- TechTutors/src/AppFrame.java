@@ -1,6 +1,5 @@
 ("Businesodes.put("Great Hall", greatHall);
-        locut("Legon Hall", legonHall);
-        locationNodes.put("Bush Canteen", bushCanteen);
+       ionNodes.put("Bush Canteen", bushCanteen);
         locationNodes.put("Sarbah Park", sarbahPark);
         locationNodes.put("Fire Station", fireStation);
         locationNodes.put("Banking Square", bankingSquare);
