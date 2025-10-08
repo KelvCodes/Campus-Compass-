@@ -1,5 +1,4 @@
-es bankingSquare = new Nodes(18, "Banking Square");
-        NodasicSchool = new Nodes(20, "Basic School");
+es bankinhool = new Nodes(20, "Basic School");
         Nodes diasporaHalls = new Nodes(21, "Diaspora Halls");
 
         locationNodes.put("Engineering School", engineeringSchool);
