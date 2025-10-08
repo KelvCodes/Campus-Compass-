@@ -1,5 +1,4 @@
-"Button.background", surface);
-        UIManager.put("Button.foreground", text);
+"Button.bac.foreground", text);
         UIManager.put("Label.foreground", text);
         UIManager.put("ComboBox.background", surface);
         UIManager.put("ComboBox.foreground", text);
