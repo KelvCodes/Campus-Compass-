@@ -1,7 +1,4 @@
-
-    pri
-    private JFrame frame;
-    private JPanel mainPanel;
+l;
     private JPanel resultPanel;
     private JComboBox<String> startComboBox;
     private JComboBox<String> endComboBox;
