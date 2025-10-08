@@ -1,5 +1,4 @@
 l;
-    private JPanel resultPanel;
     private JComboBox<String> startComboBox;
     private JComboBox<String> endComboBox;
     private JTextArea resultArea;
