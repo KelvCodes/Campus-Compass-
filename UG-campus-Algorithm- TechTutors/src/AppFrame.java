@@ -1,7 +1,4 @@
 
-
-        Nodes engineeringSchool = new Nodes(0, "Engineering School");
-        Nodes csDept = new Nodes(1, "CS Department");
         Nodes lawFaculty = new Nodes(2, "Law Faculty");
         Nodes jqb = new Nodes(3, "JQB");
         Nodes mainGate = new Nodes(4, "Main Gate");
