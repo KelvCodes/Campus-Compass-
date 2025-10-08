@@ -2,10 +2,7 @@ d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
         g(locaet("JQB"), locationNodes.get("Math Department"), 400.00);
         graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Akuafo Hall"), 300.00);
-        graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Legon Hall"), 400.00);
-        graph.addEdge(locationNodes.get("Sarbah Park"), locationNodes.get("Bush Canteen"), 350.00);
-        graph.addEdge(locationNodes.get("Diaspora Halls"), locationNodes.get("Basic School"), 800.00);
-        graph.addEdge(locationNodes.get("Banking Square"), locationNodes.get("Bush Canteen"), 600.00);
+        graph.addEdgeng Square"), locationNodes.get("Bush Canteen"), 600.00);
     }
 
     private void setupUI() {
