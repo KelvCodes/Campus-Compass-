@@ -1,6 +1,5 @@
 
-        app
-        initializeGraph();
+    lizeGraph();
         setupUI();
     }
 
