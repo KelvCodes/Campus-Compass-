@@ -1,5 +1,5 @@
-es bankinhool = new Nodes(20, "Basic School");
-        Nodes diasporaHalls = new Nodes(21, "Diaspora Halls");
+s
+        iasporaHalls = new Nodes(21, "Diaspora Halls");
 
         locationNodes.put("Engineering School", engineeringSchool);
         locationNodes.put("CS Department", csDept);
