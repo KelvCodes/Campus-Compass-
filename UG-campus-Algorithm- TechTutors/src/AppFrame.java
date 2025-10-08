@@ -1,7 +1,6 @@
 d addEdgesToGraph() {
         graph.addEdge(locationNodes.get("Engineering School"), locationNodes.get("CS Department"), 270.12);
-        grEdge(locationNodes.get("Engineering School"), locationNodes.get("JQB"), 502.43);
-        graph.addEdge(locationNodes.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
+        grocationNodes.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
         graph.addEdge(locationNodes.get("CS Department"), locationNodes.get("Math Department"), 208.65);
         graph.addEdge(locationNodes.get("Math Department"), locationNodes.get("UGCS"), 653.88);
