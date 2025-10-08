@@ -1,5 +1,4 @@
-ic class AppFrame extends JFrame implements ActionListener {
-    private JLabel startLabel;
+
     private JLabel stopLabel;
     private JLabel routeLabel; // kept to match your class fields
     private JButton findRouteButton;
