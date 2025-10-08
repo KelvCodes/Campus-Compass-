@@ -1,6 +1,4 @@
 
-
-import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
 
 public class AppFrame extends JFrame implements ActionListener {
