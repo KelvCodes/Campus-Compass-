@@ -1,5 +1,4 @@
-locationdes.put("UGCS", ugcs);
-        locationNodes.put("Business School", businessSchool);
+("Business School", businessSchool);
         locationNodes.put("Volta Hall", voltaHall);
         locationNodes.put("Commonwealth", commonwealth);
         locationNodes.put("Great Hall", greatHall);
