@@ -1,7 +1,5 @@
 "Button.bac.foreground", text);
-        UIManager.put("Label.foreground", text);
-        UIManager.put("ComboBox.background", surface);
-        UIManager.put("ComboBox.foreground", text);
+        UIManager.put("ground", text);
         UIManager.put("ComboBox.selectionBackground", new Color(38, 38, 38));
         UIManager.put("ComboBox.selectionForeground", text);
         UIManager.put("TextArea.background", bg);
