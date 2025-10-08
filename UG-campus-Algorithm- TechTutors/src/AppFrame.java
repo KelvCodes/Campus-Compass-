@@ -1,8 +1,6 @@
 d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
-        g(locationNodes.get("Business School"), locationNodes.get("Volta Hall"), 346.82);
-        graph.addEdge(locationNodes.get("Volta Hall"), locationNodes.get("Commonwealth"), 536.69);
-        graph.addEdge(locationNodes.get("Commonwealth"), locationNodes.get("Great Hall"), 586.81);
+        g(locatinNodes.get("Commonwealth"), locationNodes.get("Great Hall"), 586.81);
         graph.addEdge(locationNodes.get("Main Gate"), locationNodes.get("School of Performing Arts"), 50.00);
         graph.addEdge(locationNodes.get("School of Performing Arts"), locationNodes.get("Balme Library"), 992.04);
         graph.addEdge(locationNodes.get("UGCS"), locationNodes.get("Balme Library"), 269.71);
