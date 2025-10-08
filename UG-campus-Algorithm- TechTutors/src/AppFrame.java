@@ -1,6 +1,4 @@
-
-    private Graph graph;
-    private Map<String, Nodes> locationNodes;
+des> locationNodes;
 
     public AppFrame() {
         applyDarkThemeUIDefaults(); // design-only change
