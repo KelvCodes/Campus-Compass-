@@ -1,5 +1,4 @@
-l);
-        UIManager.put("TitledBorder.titleColor", subtle);
+
         UIManager.put(ip.background", new Color(40, 40, 40));
         UIManager.put("ToolTip.foreground", text);
 
