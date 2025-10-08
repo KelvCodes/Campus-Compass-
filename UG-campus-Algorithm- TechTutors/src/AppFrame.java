@@ -1,6 +1,4 @@
 
-        graph = new Graph(true);
-        locationNodes = new HashMap<>();
 
         Nodes engineeringSchool = new Nodes(0, "Engineering School");
         Nodes csDept = new Nodes(1, "CS Department");
