@@ -1,6 +1,4 @@
-th = new Nodes(11, "Commonwealth");
-        Nodes greatHall = new Nodes(12, "Great Hall");
-        Nodes akuafoHall = new Nodes(13, "Akuafo Hall");
+th  new Nodes(13, "Akuafo Hall");
         Nodes legonHall = new Nodes(14, "Legon Hall");
         Nodes bushCanteen = new Nodes(15, "Bush Canteen");
         Nodes sarbahPark = new Nodes(16, "Sarbah Park");
