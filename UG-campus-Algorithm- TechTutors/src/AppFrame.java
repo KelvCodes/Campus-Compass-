@@ -1,6 +1,4 @@
-locationNodes.put("School of Performing Arts", performingArts);
-     ionNodes.put("Balme Library", balmeLibrary);
-        locationNodes.put("UGCS", ugcs);
+locationdes.put("UGCS", ugcs);
         locationNodes.put("Business School", businessSchool);
         locationNodes.put("Volta Hall", voltaHall);
         locationNodes.put("Commonwealth", commonwealth);
