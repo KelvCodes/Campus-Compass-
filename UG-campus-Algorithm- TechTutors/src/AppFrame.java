@@ -1,6 +1,4 @@
 
-
-    /** ---- DESIGN: Apply dark theme defaults (no logic change) ---- */    // Global dark palette
         Color bg = new Color(18, 18, 18);
         Color panel = new Color(22, 22, 22);
         Color surface = new Color(28, 28, 28);
