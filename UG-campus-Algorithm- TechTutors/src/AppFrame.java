@@ -1,5 +1,4 @@
 
-    private JLabel stopLabel;
     private JLabel routeLabel; // kept to match your class fields
     private JButton findRouteButton;
     private JButton clearButton;
