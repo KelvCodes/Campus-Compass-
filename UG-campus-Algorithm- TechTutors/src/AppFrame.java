@@ -1,5 +1,4 @@
-l;
-    private JScrollPane scrollPane;
+
     private Graph graph;
     private Map<String, Nodes> locationNodes;
 
