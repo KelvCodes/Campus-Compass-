@@ -1,5 +1,3 @@
-s
-        iasporaHalls = new Nodes(21, "Diaspora Halls");
 
         locationNodes.put("Engineering School", engineeringSchool);
         locationNodes.put("CS Department", csDept);
