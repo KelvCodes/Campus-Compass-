@@ -1,6 +1,4 @@
 
-        // Improve default font a bit
-        Font base = neFont.PLAIN, 13);
         UIManager.put("Label.font", base);
         UIManager.put("Button.font", base);
         UIManager.put("ComboBox.font", base);
