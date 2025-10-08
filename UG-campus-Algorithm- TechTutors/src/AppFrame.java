@@ -1,6 +1,5 @@
 
-        Color bg = new Color(18, 18, 18);
-        Color panel = new Color(22, 22, 22);
+        Color bg = new Color(18, 18, 18
         Color surface = new Color(28, 28, 28);
         Color text = new Color(224, 224, 224);
         Color subtle = new Color(160, 160, 160);
