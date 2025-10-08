@@ -1,6 +1,5 @@
 .put("BunightMarket);
-        locationNodes.put("Basic School", basicSchool);
-        locationNodes.put("Diaspora Halls", diasporaHalls);
+        locationNodespora Halls", diasporaHalls);
 
         addEdgesToGraph();
     }
