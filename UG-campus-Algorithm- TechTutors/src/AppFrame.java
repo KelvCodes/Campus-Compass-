@@ -1,6 +1,5 @@
  School", engineeringSchool);
-        locationNodes.put("CS Department", csDept);
-        locationNodes.put("Law Faculty", lawFaculty);
+        locationNodes.put("CS Depas.put("Law Faculty", lawFaculty);
         locationNodes.put("JQB", jqb);
         locationNodes.put("Main Gate", mainGate);
         locationNodes.put("School of Performing Arts", performingArts);
