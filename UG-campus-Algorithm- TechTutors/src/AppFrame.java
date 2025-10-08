@@ -1,4 +1,4 @@
-lectionBackground", new Color(38, 38, 38));
+, 38, 38));
         UIManager.putArea.background", bg);
         UIManager.put("TextArea.foreground", text);
         UIManager.put("TextArea.caretForeground", text);
