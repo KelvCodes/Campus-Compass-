@@ -1,6 +1,4 @@
 
-        UIManager.putreground", text);
-
         // Improve default font a bit
         Font base = new Font("Segoe UI", Font.PLAIN, 13);
         UIManager.put("Label.font", base);
