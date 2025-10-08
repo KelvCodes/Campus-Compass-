@@ -1,6 +1,4 @@
 
- 
-        Color text = new Color(224, 224, 224);
         Color subtle = new Color(160, 160, 160);
         Color border = new Color(56, 56, 56);
 
