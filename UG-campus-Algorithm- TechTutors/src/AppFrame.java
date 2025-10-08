@@ -3,8 +3,7 @@
         UIManager.put("TextArea.caretForeground", text);
         UIManager.put("ScrollPane.background", panel);
         UIManager.put("TitledBorder.titleColor", subtle);
-        UIManager.put("TabbedPane.contentAreaColor", bg);
-        UIManager.put("ToolTip.background", new Color(40, 40, 40));
+        UIManager.put(ip.background", new Color(40, 40, 40));
         UIManager.put("ToolTip.foreground", text);
 
         // Improve default font a bit
