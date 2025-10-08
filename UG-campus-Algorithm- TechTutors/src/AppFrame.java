@@ -1,5 +1,4 @@
 
-        Nodes lawFaculty = new Nodes(2, "Law Faculty");
         Nodes jqb = new Nodes(3, "JQB");
         Nodes mainGate = new Nodes(4, "Main Gate");
         Nodes performingArts = new Nodes(5, "School of Performing Arts");
