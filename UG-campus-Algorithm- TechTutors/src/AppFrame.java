@@ -2,14 +2,7 @@ d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
         g(locaet("JQB"), locationNodes.get("Math Department"), 400.00);
         graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Akuafo Hall"), 300.00);
-        graph.addEdgeng Square"), locationNodes.get("Bush Canteen"), 600.00);
-    }or(18, 18, 18);
-        Color panel = new Color(22, 22, 22);
-        Color surface = new Color(28, 28, 28);
-        Color text = new Color(224, 224, 224);
-        Color border = new Color(56, 56, 56);
-        Color accent = new Color(64, 145, 108);   // green accent
-        Color accentDanger = new Color(176, 60, 60);
+        60);
 
         mainPanel = new JPanel(new BorderLayout(14, 14));
         mainPanel.setBackground(panel);
