@@ -1,11 +1,6 @@
 d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
-        g(locaet("JQB"), locationNodes.get("Math Department"), 400.00);
-        graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Akuafo Hall"), 300.00);
-        60);
-
-        mainPanel = new JPanel(new BorderLayout(14, 14));
-        mainPanel.setBackground(panel);
+        g(locaet("
         mainPanel.setBorder(BorderFactory.createEmptyBorder(18, 18, 18, 18));
 
         // Header
