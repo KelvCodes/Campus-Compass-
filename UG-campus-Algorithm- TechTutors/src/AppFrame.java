@@ -1,6 +1,4 @@
 
-
-        // Common UI defaults
         UIManager.put("Panel.background", panel);
         UIManager.put("OptionPane.background", panel);
         UIManager.put("OptionPane.messageForeground", text);
