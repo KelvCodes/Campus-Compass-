@@ -1,6 +1,4 @@
-es.put("JQB", jqb);
-        locationNodes.put("Main Gate", mainGate);
-        locationNodes.put("School of Performing Arts", performingArts);
+locationNodes.put("School of Performing Arts", performingArts);
         locationNodes.put("Math Department", mathDept);
         locationNodes.put("Balme Library", balmeLibrary);
         locationNodes.put("UGCS", ugcs);
