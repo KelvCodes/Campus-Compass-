@@ -3,11 +3,7 @@ d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         g(locaet("JQB"), locationNodes.get("Math Department"), 400.00);
         graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Akuafo Hall"), 300.00);
         graph.addEdgeng Square"), locationNodes.get("Bush Canteen"), 600.00);
-    }CloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(900, 640);
-        frame.setLocationRelativeTo(null);
-
-        Color bg = new Color(18, 18, 18);
+    }or(18, 18, 18);
         Color panel = new Color(22, 22, 22);
         Color surface = new Color(28, 28, 28);
         Color text = new Color(224, 224, 224);
