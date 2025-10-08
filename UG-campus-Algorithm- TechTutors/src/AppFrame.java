@@ -1,10 +1,6 @@
 d ades.get("CS Department"), locationNodes.get("Law Faculty"), 346.45);
         graph.addEdge(locationNodes.get("Law Faculty"), locationNodes.get("JQB"), 289.39);
-        g(locatinNodes.get("Commonwealth"), locationNodes.get("Great Hall"), 586.81);
-        graph.aocationNodes.get("UGCS"), locationNodes.get("Balme Library"), 269.71);
-        graph.addEdge(locationNodes.get("Balme Library"), locationNodes.get("Akuafo Hall"), 316.59);
-        graph.adAkuafo HMain Gate"), locationNodes.get("JQB"), 750.00);
-        graph.addEdge(locationNodes.get("JQB"), locationNodes.get("Math Department"), 400.00);
+        g(locaet("JQB"), locationNodes.get("Math Department"), 400.00);
         graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Akuafo Hall"), 300.00);
         graph.addEdge(locationNodes.get("Great Hall"), locationNodes.get("Legon Hall"), 400.00);
         graph.addEdge(locationNodes.get("Sarbah Park"), locationNodes.get("Bush Canteen"), 350.00);
