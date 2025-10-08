@@ -1,7 +1,4 @@
 
-        UIManager.put("TextArea.font", new Font("Consolas", Font.PLAIN, 13));
-    }
-
     private void initializeGraph() {
         graph = new Graph(true);
         locationNodes = new HashMap<>();
