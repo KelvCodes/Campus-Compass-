@@ -1,5 +1,4 @@
-Hall = new Nodes(10, "Volta Hall");
-        Nodes commonwealth = new Nodes(11, "Commonwealth");
+th = new Nodes(11, "Commonwealth");
         Nodes greatHall = new Nodes(12, "Great Hall");
         Nodes akuafoHall = new Nodes(13, "Akuafo Hall");
         Nodes legonHall = new Nodes(14, "Legon Hall");
