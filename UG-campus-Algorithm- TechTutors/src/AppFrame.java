@@ -1,5 +1,4 @@
 
-    private void initializeGraph() {
         graph = new Graph(true);
         locationNodes = new HashMap<>();
 
