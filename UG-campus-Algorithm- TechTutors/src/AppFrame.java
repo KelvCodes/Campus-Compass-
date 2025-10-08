@@ -1,5 +1,5 @@
 
-        applyDarkThemeUIDefaults(); // design-only change
+        app
         initializeGraph();
         setupUI();
     }
