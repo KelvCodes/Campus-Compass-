@@ -1,5 +1,4 @@
 
-        Nodes performingArts = new Nodes(5, "School of Performing Arts");
         Nodes mathDept = new Nodes(6, "Math Department");
         Nodes balmeLibrary = new Nodes(7, "Balme Library");
         Nodes ugcs = new Nodes(8, "UGCS");
