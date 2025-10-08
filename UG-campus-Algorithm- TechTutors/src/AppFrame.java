@@ -1,7 +1,4 @@
 l;
-    private JComboBox<String> startComboBox;
-    private JComboBox<String> endComboBox;
-    private JTextArea resultArea;
     private JScrollPane scrollPane;
     private Graph graph;
     private Map<String, Nodes> locationNodes;
